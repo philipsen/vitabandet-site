@@ -3,10 +3,10 @@
 #   pageRef = "posts"
 #   weight = 10
 
-[[main]]
-  name = "Itinerary"
-  pageRef = "itinerary"
-  weight = 20
+#[[main]]
+#  name = "Itinerary"
+#  pageRef = "itinerary"
+#  weight = 20
 
 # [[main]]
 #   name = "Process"
