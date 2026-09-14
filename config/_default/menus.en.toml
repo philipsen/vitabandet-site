@@ -18,10 +18,10 @@
   pageRef = "about_trip"
   weight = 40
 
-[[main]]
-  name = "About me"
-  pageRef = "about_me"
-  weight = 50
+# [[main]]
+#   name = "About me"
+#   pageRef = "about_me"
+#   weight = 50
 
 [[footer]]
   name = "White Ribbon"

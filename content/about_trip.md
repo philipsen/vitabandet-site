@@ -1,7 +1,7 @@
 ---
 title: "About the trip"
 date: 2026-09-14
-draft: true
+draft: false
 ---
 
 **Vita Bandet** is a continuous, human-powered winter journey along the Swedish mountain chain, typically Grövelsjön to Treriksröset. Official rules and history: [vitagronabandet.se](https://www.vitagronabandet.se/en/white-green-ribbon/).
@@ -23,7 +23,4 @@ Success is finishing at the cairn in reasonable shape, not racing the calendar.
 ## Why
 
 <!-- Why this year, what “enough” looks like. -->
-
-## How I travel
-
-<!-- Pulk, tent, resupply in villages, companions for parts of the route. -->
+Why wait, this year I can make time...
