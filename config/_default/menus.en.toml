@@ -8,10 +8,10 @@
   pageRef = "itinerary"
   weight = 20
 
-[[main]]
-  name = "Process"
-  pageRef = "process"
-  weight = 30
+# [[main]]
+#   name = "Process"
+#   pageRef = "process"
+#   weight = 30
 
 [[main]]
   name = "About the trip"
