@@ -1,11 +1,12 @@
 ---
-title: "About"
+title: "About the trip"
 date: 2026-09-14
+draft: true
 ---
 
 **Vita Bandet** is a continuous, human-powered winter journey along the Swedish mountain chain, typically Grövelsjön to Treriksröset. Official rules and history: [vitagronabandet.se](https://www.vitagronabandet.se/en/white-green-ribbon/).
 
-This attempt:
+## This attempt
 
 | | |
 |--|--|
@@ -15,7 +16,14 @@ This attempt:
 | Days | 65, including 6 rest days |
 | Travel | Ski + pulk |
 | Sleep | Mostly tent; huts at some shops and on Kungsleden |
-<!-- 
-I ski **solo**. A companion joins the first stretch to Storlien and drives the start car home. Klaartje plans to ski Hemavan → Kvikkjokk in mid-March. -->
+| Company | Mostly alone, some sections with friends |
 
-Success is finishing at the cairn in reasonable shape, not racing the calendar. April slack exists if weather or body asks for it.
+Success is finishing at the cairn in reasonable shape, not racing the calendar.
+
+## Why
+
+<!-- Why this year, what “enough” looks like. -->
+
+## How I travel
+
+<!-- Pulk, tent, resupply in villages, companions for parts of the route. -->

@@ -1,7 +1,7 @@
-[[main]]
-  name = "Log"
-  pageRef = "posts"
-  weight = 10
+# [[main]]
+#   name = "Log"
+#   pageRef = "posts"
+#   weight = 10
 
 [[main]]
   name = "Itinerary"
@@ -14,9 +14,14 @@
   weight = 30
 
 [[main]]
-  name = "About"
-  pageRef = "about"
+  name = "About the trip"
+  pageRef = "about_trip"
   weight = 40
+
+[[main]]
+  name = "About me"
+  pageRef = "about_me"
+  weight = 50
 
 [[footer]]
   name = "White Ribbon"
