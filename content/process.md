@@ -1,6 +1,7 @@
 ---
 title: "How the plan was built"
 date: 2026-09-14
+draft: true
 ---
 
 The route is a personal GPX, maintained in BaseCamp, along the White Ribbon corridor (pass **väster om** the six official waypoints). An **alt ~25 km** schedule is the public plan of record.
