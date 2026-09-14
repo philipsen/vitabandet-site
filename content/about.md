@@ -15,7 +15,7 @@ This attempt:
 | Days | 65, including 6 rest days |
 | Travel | Ski + pulk |
 | Sleep | Mostly tent; huts at some shops and on Kungsleden |
-
-I ski **solo**. A companion joins the first stretch to Storlien and drives the start car home. Klaartje plans to ski Hemavan → Kvikkjokk in mid-March.
+<!-- 
+I ski **solo**. A companion joins the first stretch to Storlien and drives the start car home. Klaartje plans to ski Hemavan → Kvikkjokk in mid-March. -->
 
 Success is finishing at the cairn in reasonable shape, not racing the calendar. April slack exists if weather or body asks for it.
