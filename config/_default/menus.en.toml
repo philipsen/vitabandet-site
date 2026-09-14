@@ -1,0 +1,24 @@
+[[main]]
+  name = "Log"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Itinerary"
+  pageRef = "itinerary"
+  weight = 20
+
+[[main]]
+  name = "Process"
+  pageRef = "process"
+  weight = 30
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 40
+
+[[footer]]
+  name = "White Ribbon"
+  url = "https://www.vitagronabandet.se/en/white-green-ribbon/"
+  weight = 10
