@@ -14,5 +14,5 @@ I started by looking at a lot of tracks from people who have already done the tr
 
 {{< gpx-map file="helags-via-storlien.gpx" file2="helags-via-undersaker.gpx" default-layer="topo" show-stats="true" elevation="true" >}}
 
-After that, most people follow more or less the same route to Hemavan. after that, most people take the kids to Kings Trail all the way up to Abisco. From Abisco the usual out it's just cause like tuna task and then stay on the Swedish side all the way to Tía exquisiteFrom Abisco the usual out it's just cause like tuna task and then stay on the Swedish side all the way to Tía exquisite
+After that, most people follow more or less the same route to Hemavan. From there, most people take Kungsleden all the way up to Abisko. From Abisko the usual choice is to cross Torneträsk and then stay on the Swedish side all the way to Treriksröset.
 
