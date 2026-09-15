@@ -11,7 +11,7 @@ I've been doing winter cross-country ski trips for a lot of years. Almost every 
 
 A few years ago I met some people doing something called Vita Bandet. I had never heard of it. It sounded really cool: ski the Swedish mountains end to end, usually south to north. It takes a lot of time. I've been thinking about doing the trip for a couple of years, and next season — 2027 — is the year to do it. 
 
-On this site, I'll document my preparation for the trip. Everything from gear, food supplies and equipment and also how I put together the route I'm thinking of taking. There also plans for travel how to get to the mountains how to get back. I'm planning to ask her friends to accompany me for parts of the trip. I'm planning to ask her friends to accompany me for parts of the trip.
+On this site, I'll document my preparation for the trip. Everything from gear, food and equipment, and also how I put together the route I'm thinking of taking. There are also plans for travel: how to get to the mountains and how to get back. I'm planning to ask friends to accompany me for parts of the trip.
 
 
 

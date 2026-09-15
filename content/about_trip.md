@@ -22,5 +22,4 @@ Success is finishing at the cairn in reasonable shape, not racing the calendar.
 
 ## Why
 
-<!-- Why this year, what “enough” looks like. -->
-Why wait, this year I can make time...
+Why wait? This year I can make the time.
