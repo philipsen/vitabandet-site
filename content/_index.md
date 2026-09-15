@@ -1,7 +1,7 @@
 ---
-
-## title: "Vita Bandet 2027"
+title: "Vita Bandet 2027"
 description: "Solo ski + pulk from Grövelsjön to Treriksröset, 10 Feb – 15 Apr 2027."
+---
 
 A winter journey on [Fjällfararnas Vita Bandet](https://www.vitagronabandet.se/en/white-green-ribbon/) — the White Ribbon — south to north along Sweden’s mountain chain.
 
