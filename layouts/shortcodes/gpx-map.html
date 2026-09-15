@@ -33,13 +33,13 @@ Licensed under the Apache License, Version 2.0
 {{- $id := printf "gpx-map-%d" .Ordinal -}}
 
 {{- /* Features (Stats/Controls) */ -}}
-{{- $defStats := index $gpxConf "showStats" | default "true" -}}
+{{- $defStats := index $gpxConf "showStats" | default "false" -}}
 {{- $showStats := .Get "show-stats" | default $defStats -}}
-{{- $defRouteSelector := index $gpxConf "showRouteSelector" | default "true" -}}
+{{- $defRouteSelector := index $gpxConf "showRouteSelector" | default "false" -}}
 {{- $showRouteSelector := .Get "show-route-selector" | default $defRouteSelector -}}
 
 {{- /* Elevation Profile Config */ -}}
-{{- $defEle := index $gpxConf "elevation" | default "true" -}}
+{{- $defEle := index $gpxConf "elevation" | default "false" -}}
 {{- $showElevation := .Get "elevation" | default $defEle -}}
 {{- $eleHeight := .Get "elevation-height" | default ($gpxConf.elevationHeight | default "150px") -}}
 {{- $eleColor := .Get "elevation-color" | default ($gpxConf.elevationColor | default "#2980b9") -}}
@@ -132,8 +132,10 @@ Licensed under the Apache License, Version 2.0
 <script src="{{ $leafletJs.RelPermalink }}" integrity="{{ $leafletJs.Data.Integrity }}"
   crossorigin="anonymous"></script>
 
+{{- if eq (printf "%v" $showElevation) "true" -}}
 {{- $d3Js := resources.Get "hugo-gpx-module/lib/d3/d3.min.js" | minify | fingerprint -}}
 <script src="{{ $d3Js.RelPermalink }}" integrity="{{ $d3Js.Data.Integrity }}" crossorigin="anonymous"></script>
+{{- end -}}
 
 {{- /* 5.2 Module Assets */ -}}
 {{- $style := resources.Get "hugo-gpx-module/scss/style.scss" | toCSS (dict "targetPath" "css/gpx-module.css"
@@ -163,10 +165,13 @@ Licensed under the Apache License, Version 2.0
     </div>
   </div>
 
+  {{- if eq (printf "%v" $showElevation) "true" -}}
   <div id="{{ $id }}-elevation" class="elevation-chart-wrapper" style="height: {{ $eleHeight }};">
     <div class="elevation-tooltip" id="{{ $id }}-ele-tooltip"></div>
   </div>
+  {{- end -}}
 
+  {{- if eq (printf "%v" $showRouteSelector) "true" -}}
   <!-- Route Selector -->
   <div class="gpx-route-selector" style="margin-top: 1rem; display: none;" id="{{ $id }}-route-selector">
     <div class="gpx-box-style" style="border-radius: 8px; padding: 1rem;">
@@ -198,6 +203,7 @@ Licensed under the Apache License, Version 2.0
       <div class="gpx-route-list" id="{{ $id }}-routes"></div>
     </div>
   </div>
+  {{- end -}}
 
   <!-- Statistics -->
   {{- if eq (printf "%v" $showStats) "true" -}}

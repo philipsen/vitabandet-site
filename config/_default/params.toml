@@ -206,3 +206,6 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   defaultLayer = "winter"
   winterUrl = "https://outdoor.tiles.freemap.sk/{z}/{x}/{y}"
   winterAttr = "© OpenStreetMap, © Freemap Slovakia"
+  showStats = false
+  showRouteSelector = false
+  elevation = false

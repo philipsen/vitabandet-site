@@ -5,7 +5,7 @@ date: 2026-09-14
 
 Working schedule: **10 Feb – 15 Apr 2027**. Camps and kilometres will slip; the daily log is the record of what actually happened.
 
-{{< gpx-map file="gpx/planned.gpx" default-layer="winter" show-stats="true" elevation="true" >}}
+{{< gpx-map file="gpx/planned.gpx" default-layer="winter" >}}
 
 The line is the planned ski, without wild-camp pins.
 

@@ -25,7 +25,7 @@
         : ['#e74c3c', '#3498db', '#2ecc71', '#f39c12', '#9b59b6'];
 
       this.focusMarker = null;
-      this.isElevationVisible = this.config.ele.active;
+      this.isElevationVisible = String(this.config.ele && this.config.ele.active) === 'true';
       // Default to NM if toggle is shown (Nautic Mode), otherwise KM
       this.useNauticalMiles = String(this.config.showUnitToggle) === 'true';
 
@@ -504,7 +504,10 @@
       const containerId = `${this.mapId}-elevation`;
       const container = document.getElementById(containerId);
       const tooltip = document.getElementById(`${this.mapId}-ele-tooltip`);
-      if (!this.isElevationVisible) { container.style.display = 'none'; return; }
+      if (!container || !this.isElevationVisible) {
+        if (container) container.style.display = 'none';
+        return;
+      }
       const data = this._prepareElevationData();
       if (data.length === 0) { container.style.display = 'none'; if (this.focusMarker) this.focusMarker.remove(); return; }
       container.style.display = 'block';
