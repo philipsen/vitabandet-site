@@ -16,9 +16,8 @@ I started by looking at a lot of tracks from people who have already done the tr
 
 After that, most people follow more or less the same route to Hemavan. From there, most people take Kungsleden all the way up to Abisko. From Abisko the usual choice is to cross Torneträsk and then stay on the Swedish side all the way to Treriksröset.
 
+In the north I pick Lapplandsleden from Klimpfjäll to Hemavan. This stays more in the mountains.
 
-north i  pick lapland leden klimpfjell to hemavan
+Then I want Padjelanta rather than Kungsleden all the way. kunhsleden is busy. saltaluokta is very, had bad conditions 2 years agoo. Stretch from saltaluk back to kungs leden is along a road of often upwind on a lake. I have done padjalanta in 2024. It was very nice. Then from ritsum i'll go north and then east back to kungsleden.
 
-padjalanta
-
-nordkalo from abisko to finish
+From Abisko I follow Nordkalottleden through Norway to the finish. The stand seems very flat. I have done Nordkatol in the past, very late in the season (early May of 2013). It is a great trek.
