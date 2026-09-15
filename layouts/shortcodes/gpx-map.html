@@ -72,11 +72,14 @@ Licensed under the Apache License, Version 2.0
 
 {{- /* Map Provider Configuration (Tile Layers) */ -}}
 {{- $txtLayerStandard := T "gpx_layer_standard" | default "Standard" -}}
+{{- $txtLayerWinter := T "gpx_layer_winter" | default "Winter" -}}
 {{- $txtLayerTopo := T "gpx_layer_topo" | default "Topographic" -}}
 {{- $txtLayerSatellite := T "gpx_layer_satellite" | default "Satellite" -}}
 {{- $txtSeamarks := T "gpx_layer_seamarks" | default "Seamarks" -}}
 {{- $osmUrl := $gpxConf.osmUrl | default "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" -}}
 {{- $osmAttr := $gpxConf.osmAttr | default "© OpenStreetMap" -}}
+{{- $winterUrl := $gpxConf.winterUrl | default "https://outdoor.tiles.freemap.sk/{z}/{x}/{y}" -}}
+{{- $winterAttr := $gpxConf.winterAttr | default "© OpenStreetMap, © Freemap Slovakia" -}}
 {{- $topoUrl := $gpxConf.topoUrl | default "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png" -}}
 {{- $topoAttr := $gpxConf.topoAttr | default "© OpenTopoMap" -}}
 {{- $satUrl := $gpxConf.satUrl | default
@@ -84,7 +87,7 @@ Licensed under the Apache License, Version 2.0
 {{- $satAttr := $gpxConf.satAttr | default "© Esri" -}}
 {{- $osmSeaUrl := "https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png" -}}
 {{- $osmSeaAttr := "Map data: © OpenSeaMap contributors" -}}
-{{- $defaultLayer := $gpxConf.defaultLayer | default "osm" -}}
+{{- $defaultLayer := .Get "default-layer" | default $gpxConf.defaultLayer | default "osm" -}}
 
 {{- /* --- 3. GPX FILE PARSING --- */ -}}
 {{- $rawFiles := slice -}}
@@ -244,6 +247,7 @@ Licensed under the Apache License, Version 2.0
     showSeamarks: {{ $showSeamarks }},
     tiles: {
       osm: { url: '{{ $osmUrl }}', attr: '{{ $osmAttr | safeJS }}' },
+      winter: { url: '{{ $winterUrl }}', attr: '{{ $winterAttr | safeJS }}' },
       topo: { url: '{{ $topoUrl }}', attr: '{{ $topoAttr | safeJS }}' },
       sat: { url: '{{ $satUrl }}', attr: '{{ $satAttr | safeJS }}' },
       sea: { url: '{{ $osmSeaUrl }}', attr: '{{ $osmSeaAttr | safeJS }}' }
@@ -253,6 +257,7 @@ Licensed under the Apache License, Version 2.0
     colors: {{ $colorList | jsonify }},
     txt: {
       standard: '{{ $txtLayerStandard }}',
+      winter: '{{ $txtLayerWinter }}',
       topo: '{{ $txtLayerTopo }}',
       satellite: '{{ $txtLayerSatellite }}',
       seamarks: '{{ $txtSeamarks }}',

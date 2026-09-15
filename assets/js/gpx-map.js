@@ -148,10 +148,14 @@
 
         // --- Tile Layers ---
         const osm = Leaflet.tileLayer(this.config.tiles.osm.url, { maxZoom: 19, attribution: this.config.tiles.osm.attr });
+        const winter = this.config.tiles.winter
+          ? Leaflet.tileLayer(this.config.tiles.winter.url, { maxZoom: 18, attribution: this.config.tiles.winter.attr })
+          : null;
         const topo = Leaflet.tileLayer(this.config.tiles.topo.url, { maxZoom: 17, attribution: this.config.tiles.topo.attr });
         const satellite = Leaflet.tileLayer(this.config.tiles.sat.url, { attribution: this.config.tiles.sat.attr });
 
         const baseMaps = {};
+        if (winter) baseMaps[this.config.txt.winter || 'Winter'] = winter;
         baseMaps[this.config.txt.standard] = osm;
         baseMaps[this.config.txt.topo] = topo;
         baseMaps[this.config.txt.satellite] = satellite;
@@ -186,6 +190,7 @@
 
         if (this.config.defaultLayer === 'satellite') satellite.addTo(this.map);
         else if (this.config.defaultLayer === 'topo') topo.addTo(this.map);
+        else if (this.config.defaultLayer === 'winter' && winter) winter.addTo(this.map);
         else osm.addTo(this.map);
 
         Leaflet.control.layers(baseMaps, overlayMaps, { position: 'topright' }).addTo(this.map);
