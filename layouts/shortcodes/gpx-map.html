@@ -129,19 +129,6 @@ Licensed under the Apache License, Version 2.0
 <script src="{{ $leafletJs.RelPermalink }}" integrity="{{ $leafletJs.Data.Integrity }}"
   crossorigin="anonymous"></script>
 
-<script>
-(function () {
-  var Leaflet = window.L;
-  if (!Leaflet || typeof Leaflet.Map !== "function") return;
-  Object.defineProperty(window, "L", {
-    configurable: true,
-    enumerable: true,
-    get: function () { return Leaflet; },
-    set: function (v) { if (v && typeof v.Map === "function") Leaflet = v; }
-  });
-})();
-</script>
-
 {{- $d3Js := resources.Get "hugo-gpx-module/lib/d3/d3.min.js" | minify | fingerprint -}}
 <script src="{{ $d3Js.RelPermalink }}" integrity="{{ $d3Js.Data.Integrity }}" crossorigin="anonymous"></script>
 
@@ -150,7 +137,7 @@ Licensed under the Apache License, Version 2.0
 "outputStyle" "compressed") | fingerprint -}}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
 
-{{- $script := resources.Get "hugo-gpx-module/js/gpx-map.js" | minify | fingerprint -}}
+{{- $script := resources.Get "js/gpx-map.js" | minify | fingerprint -}}
 <script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}"></script>
 {{- end -}}
 
