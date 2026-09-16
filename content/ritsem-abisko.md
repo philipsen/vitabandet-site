@@ -14,40 +14,47 @@ That keeps me off the busy Kebnekaise corridor. Nights sit at staffed STF huts: 
 
 ## Days
 
-| Date | Place | km | Sleep |
-|------|-------|---:|-------|
-| 30–31 Mar | Ritsem | — | STF · rest |
-| 1 Apr | Sitojaure | 22 | STF |
-| 2 Apr | Hukejaure | 19 | STF |
-| 3 Apr | Sälka | 20 | STF |
-| 4 Apr | Tjäktja | 14 | STF |
-| 5 Apr | Alesjaure | 12 | STF |
-| 6 Apr | Abiskojaure | 22 | STF |
-| 7–8 Apr | Abisko | 13 | STF · rest |
+All nights are in staffed STF huts. Hut shops sell some food — snacks, staples, freeze-dried when they have it — not a cooked meal. Ritsem has a café and a proper shop; Abisko has a restaurant and a grocery in the village.
+
+| Date | Place | km | ↑ | ↓ | Sleep |
+|------|-------|---:|--:|--:|-------|
+| 30–31 Mar | Ritsem | — | — | — | STF · rest |
+| 1 Apr | Sitojaure | 22 | 265 | 148 | STF |
+| 2 Apr | Hukejaure | 19 | 407 | 152 | STF |
+| 3 Apr | Sälka | 20 | 195 | 202 | STF · sauna |
+| 4 Apr | Tjäktja | 14 | 293 | 176 | STF |
+| 5 Apr | Alesjaure | 12 | 58 | 259 | STF · sauna |
+| 6 Apr | Abiskojaure | 22 | 82 | 366 | STF · sauna |
+| 7–8 Apr | Abisko | 13 | 3 | 142 | STF · rest · sauna |
 
 From Sälka north it is classic Kungsleden: Tjäktja pass, then down through the lakes to Abisko. Tjäktja is short but steep with a pulk.
 
+## Bail-out
+
+Two ways off before Abisko.
+
+**From Hukejaure, go back to Ritsem.** Reverse the first two days: Hukejaure → Sitojaure (19 km) → Ritsem (22 km). Same staffed huts. Then the Falcks bus to Gällivare, the way you came in. That is the clean early exit, before Tjäktja.
+
+**Later, east to Singi and Kebnekaise.** From Sälka the valleys split. Ski to **STF Singi** (~12 km), then **STF Kebnekaise** (~14 km). Kebnekaise is open **26 Feb – 18 Apr 2027**. From there it is about 19 km down to **Nikkaluokta**, or a booked snowmobile. The road starts at Nikkaluokta: [Nikkaluoktaexpressen](https://nikkaluoktaexpressen.se/) to Kiruna while the mountain station is open, then the train. This is the busy corridor we otherwise stay west of.
+
+Once over Tjäktja, Abisko is usually the simpler way out. Laponia still wants rented kit at Gällivare station — from Nikkaluokta that is Kiruna, then a short train south.
+
 ## Travel
 
-This is the easiest public-transport gate on the trip. In is Gällivare plus the Ritsem bus; out is the train at Abisko.
+This is the easiest public-transport gate on the trip. The likely way in is the night train from **Stockholm** to **Gällivare**, then the bus to Ritsem. Out is the train at Abisko.
 
-**In.** Night train to **Gällivare** (SJ; for 2027 the Stockholm–Narvik night train is planned to run through again). Then **Falcks Omnibus** to **Ritsem Fjällstation** — typically one or two buses a day in late winter, about 3½ hours. Book the bus **on the same ticket as the train** (Resplus, destination *Ritsem Fjällstation*) so a late train is the operator’s problem, not an unplanned night in town. Timetable and tickets: [roadtoritsem.com](https://roadtoritsem.com/). STF’s page: [transport to Ritsem](https://www.swedishtouristassociation.com/facilities/stf-ritsem/transportation/).
+**In.** Night train **Stockholm → Gällivare** (SJ; for 2027 the Stockholm–Narvik night train is planned to run through again). Then **Falcks Omnibus** to **Ritsem Fjällstation** — typically one or two buses a day in late winter, about 3½ hours. Book the bus **on the same ticket as the train** (Resplus, destination *Ritsem Fjällstation*) so a late train is the operator’s problem, not an unplanned night in town. Timetable and tickets: [roadtoritsem.com](https://roadtoritsem.com/). STF’s page: [transport to Ritsem](https://www.swedishtouristassociation.com/facilities/stf-ritsem/transportation/).
 
-The morning bus from Gällivare Resecentrum is the usual winter departure. A night train that arrives around 08:00 can make it, but it is tight if you also have to collect rental gear. A night in Gällivare, then the morning bus, is the calm version. Flying into Gällivare is possible; some seasons there is a later bus from the airport.
+The morning bus from Gällivare Resecentrum is the usual winter departure. A night train that arrives around 08:00 can feed it if Laponia meets you at the station (they want 15–30 minutes). A night in Gällivare, then the morning bus, is the calm version.
 
 I am at STF Ritsem **30–31 March** (shop + rest). That is the natural meet.
 
 **Out.** Ski into **STF Abisko Turiststation**. The station is on the Malmbanan. Night train south toward Kiruna / Stockholm, or a day train. After a rest day I continue into Norway on Nordkalottleden toward Treriksröset.
 
-## Equipment in Gällivare
-
-**Dundret** rents alpine skis, snowboards and snowshoes. That is the ski hill, not Kungsleden.
+## Equipment
 
 The fjäll kit is **[Laponia Adventures](https://laponiaadventures.com/outdoor-equipment/)**: Åsnes backcountry skis with NNN BC bindings, Lundhags ski boots, poles, skins, and a **Jemtlander 14** pulk. They also rent Hilleberg tents, winter sleeping bags, mats, a multifuel stove, and winter clothes. Book online at least seven days ahead; more than fourteen days, or a group, email [info@laponiaadventures.com](mailto:info@laponiaadventures.com).
 
-Two catches for this stretch:
-
-1. **Pickup.** Their Gällivare office closed in summer 2026. Jokkmokk is the listed shop now. They still mention delivery to Gällivare station on some pages — email and ask whether a Gällivare hand-over is possible in March 2027. Do not count on collecting skis in the 50 minutes between a night train and the 09:00 bus.
-2. **Return.** Listed one-way is only Jokkmokk ↔ Gällivare, not Abisko. The practical loop is to pick up in Gällivare (if they agree), ski to Abisko, then take the same railway **south two hours to Gällivare** and drop the kit before continuing home. Ask them to write that into the booking. STF Abisko rents touring skis at the *end* of the stretch, and can send hired kit to Nikkaluokta — the wrong direction for a Ritsem start.
+In winter they **deliver to and collect from Gällivare train station** (extra fee). That matches the Stockholm night train: collect the kit on arrival, then take the Ritsem bus. After Abisko, take the railway **south about two hours to Gällivare** and hand the kit back at the station before continuing home. Shop-to-shop one-way is Jokkmokk ↔ Gällivare, not Abisko — ask them to write the station loop into the booking.
 
 For hut-to-hut you can skip tent and stove. A pulk is still worth having for food and spare clothes. Own skis can be sent ahead to STF Ritsem or Gällivare and shipped home from Abisko (Fjällboden handles parcels).
