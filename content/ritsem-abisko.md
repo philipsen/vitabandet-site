@@ -14,7 +14,7 @@ That keeps me off the busy Kebnekaise corridor. Nights sit at staffed STF huts: 
 
 ## Days
 
-All nights are in staffed STF huts. Hut shops sell some food — snacks, staples, freeze-dried when they have it — not a cooked meal. Ritsem has a café and a proper shop; Abisko has a restaurant and a grocery in the village.
+All nights are in staffed STF huts. Beds have **mattresses and duvets**; bring a sheet (or a liner) to cover them. Each hut has a **kitchen for guest use**. Hut shops sell some food — snacks, staples, freeze-dried when they have it — not a cooked meal. Ritsem has a café and a proper shop; Abisko has a restaurant and a grocery in the village.
 
 | Date | Place | km | ↑ | ↓ | Sleep |
 |------|-------|---:|--:|--:|-------|
@@ -57,4 +57,4 @@ The fjäll kit is **[Laponia Adventures](https://laponiaadventures.com/outdoor-e
 
 In winter they **deliver to and collect from Gällivare train station** (extra fee). That matches the Stockholm night train: collect the kit on arrival, then take the Ritsem bus. After Abisko, take the railway **south about two hours to Gällivare** and hand the kit back at the station before continuing home. Shop-to-shop one-way is Jokkmokk ↔ Gällivare, not Abisko — ask them to write the station loop into the booking.
 
-For hut-to-hut you can skip tent and stove. A pulk is still worth having for food and spare clothes. Own skis can be sent ahead to STF Ritsem or Gällivare and shipped home from Abisko (Fjällboden handles parcels).
+For hut-to-hut you can skip tent, stove, and sleeping bag. Bring a sheet for the hut beds. A pulk is still worth having for food and spare clothes. Own skis can be sent ahead to STF Ritsem or Gällivare and shipped home from Abisko (Fjällboden handles parcels).
