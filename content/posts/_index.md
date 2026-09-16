@@ -1,5 +1,5 @@
 ---
-title: "Daily log"
+title: "Preparations"
 description: "Notes from prep and from the trail, newest first."
 draft: false
 ---

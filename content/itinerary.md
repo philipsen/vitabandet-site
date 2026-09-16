@@ -5,9 +5,9 @@ date: 2026-09-14
 
 Working schedule: **10 Feb – 15 Apr 2027**. Camps and kilometres will slip; the daily log is the record of what actually happened.
 
-{{< gpx-map file="gpx/planned.gpx" default-layer="winter" >}}
+{{< gpx-map file="/gpx/planned.gpx" default-layer="winter" >}}
 
-The line is the planned ski, without wild-camp pins.
+The line is the planned ski, with camp pins at about 25 km a day.
 
 ## Milestones
 
@@ -36,4 +36,4 @@ Storlien, Valsjöbua, Gäddede, Klimpfjäll, Ritsem, Abisko (arrive + rest). Hem
 
 Storlien · Valsjöbua · Gäddede · Klimpfjäll · Hemavan · Jäckvik · Kvikkjokk · Ritsem · Abisko.
 
-Kungsleden huts after Ritsem (Sitojaure, Sälka, Tjäktja, Alesjaure, Abiskojaure) are planned hut nights; Hukejaure is tent.
+The [Ritsem to Abisko](/ritsem-abisko/) stretch is hut-to-hut (Sitojaure, Hukejaure, Sälka, Tjäktja, Alesjaure, Abiskojaure).

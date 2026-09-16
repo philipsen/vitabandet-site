@@ -385,6 +385,7 @@
       this.routeLayers.set(index, layer);
 
       if (this.config.showMarkers) this.addStartEndMarkers(index, geojson);
+      this.addWaypoints(index, xmlDoc);
 
       const showEleInfo = String(this.config.ele.info) !== 'false';
       let elevHtml = '';
@@ -415,6 +416,67 @@
       });
       markers.addTo(this.map);
       this.markerLayers.set(index, markers);
+    }
+
+    addWaypoints(index, xmlDoc) {
+      const grouped = new Map();
+      Array.from(xmlDoc.querySelectorAll('wpt')).forEach(wpt => {
+        const lat = parseFloat(wpt.getAttribute('lat'));
+        const lon = parseFloat(wpt.getAttribute('lon'));
+        if (isNaN(lat) || isNaN(lon)) return;
+        const name = (wpt.querySelector('name')?.textContent || '').trim();
+        const desc = (wpt.querySelector('desc')?.textContent || wpt.querySelector('cmt')?.textContent || '').trim();
+        const sym = (wpt.querySelector('sym')?.textContent || '').trim();
+        const key = `${lat.toFixed(5)},${lon.toFixed(5)}`;
+        if (grouped.has(key)) {
+          const existing = grouped.get(key);
+          if (desc && existing.desc !== desc) existing.desc += '\n' + desc;
+          return;
+        }
+        grouped.set(key, { lat, lon, name, desc, sym });
+      });
+      if (!grouped.size) return;
+
+      let group = this.markerLayers.get(index);
+      if (!group) {
+        group = Leaflet.layerGroup().addTo(this.map);
+        this.markerLayers.set(index, group);
+      }
+
+      grouped.forEach(w => {
+        const marker = Leaflet.circleMarker([w.lat, w.lon], {
+          radius: 6,
+          color: '#fff',
+          weight: 1.5,
+          fillColor: this._waypointColor(w.sym),
+          fillOpacity: 0.95
+        });
+        const title = this._escapeHtml(w.name);
+        const body = w.desc
+          ? `<span class="gpx-popup-stat">${this._escapeHtml(w.desc).replace(/\n/g, '<br>')}</span>`
+          : '';
+        marker.bindPopup(`
+            <div class="gpx-popup-content">
+                <span class="gpx-popup-title">${title}</span>
+                ${body}
+            </div>
+        `);
+        marker.addTo(group);
+      });
+    }
+
+    _waypointColor(sym) {
+      const s = (sym || '').toLowerCase();
+      if (s.includes('lodg')) return '#8e44ad';
+      if (s.includes('flag')) return '#2980b9';
+      if (s.includes('camp')) return '#e67e22';
+      return '#e74c3c';
+    }
+
+    _escapeHtml(str) {
+      return String(str).replace(/[&<>"']/g, ch => ({
+        '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+      }[ch]));
     }
 
     calculateRouteStats(geojson) {

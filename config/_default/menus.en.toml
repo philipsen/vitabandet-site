@@ -3,10 +3,15 @@
   pageRef = "posts"
   weight = 10
 
-#[[main]]
-#  name = "Itinerary"
-#  pageRef = "itinerary"
-#  weight = 20
+[[main]]
+  name = "Itinerary"
+  pageRef = "itinerary"
+  weight = 20
+
+[[main]]
+  name = "Ritsem–Abisko"
+  pageRef = "ritsem-abisko"
+  weight = 25
 
 # [[main]]
 #   name = "Process"

@@ -1,0 +1,19 @@
+{
+  "name": "Vita Bandet 2027",
+  "short_name": "Vita Bandet",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#0b6764",
+  "background_color": "#01403e",
+  "display": "standalone"
+}
