@@ -1,11 +1,10 @@
 {
-	"folders": [
-		{
-			"path": "../../../../VitaBandet"
-		},
-		{
-			"path": "../../.."
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "../../.."
+        },
+        {
+            "path": "../../../../VitaBandet"
+        }
+    ]
 }
