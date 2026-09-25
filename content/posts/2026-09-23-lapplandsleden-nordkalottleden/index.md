@@ -14,9 +14,17 @@ Most Vita Bandet tracks stay **east** of Lapplandsleden and still drop into Hema
 
 I prefer the west line. It is longer — on these tracks about **146 km** against **117 km** — and the kalfjäll can be windy. The eastern route seems to have more road travel in it. Depending on the weather and snow conditions, I may change my mind.
 
-Red is Lapplandsleden. Blue is a typical Band track on the east side.
+Red is the west line I had planned. Blue is a typical Band track on the east side.
 
 {{< gpx-map file="lapplandsleden.gpx" file2="usual-klimpf-hemavan.gpx" default-layer="winter" >}}
+
+That west GPX is the **summer** Lapplandsleden, Klimpfjäll to Hemavan. Länsstyrelsen also publishes the **winter** trail (red crosses). It starts at **Borgafjäll**, not Klimpfjäll, and is about **171 km** to Hemavan — roughly **39 km** before the village, then **134 km** on to Hemavan.
+
+The two west lines sit close at the huts, then split on the kalfjäll between **Åtnik** and **Arevattnet**: winter goes east, summer cuts west, up to about **6 km** apart. The winter export also has a few gaps of a kilometre or two on that northern stretch. It does not go through Klimpfjäll village or the Hemavan shop.
+
+Red is my planned (summer) line. Blue is the official winter trail.
+
+{{< gpx-map file="lapplandsleden.gpx" file2="lapplandsleden-vinter.gpx" default-layer="winter" >}}
 
 ## Abisko to Treriksröset
 
