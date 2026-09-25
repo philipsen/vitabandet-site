@@ -18,11 +18,33 @@ Working dates from a 10 Feb start. They will slip with weather.
 | Ski days | ~11 | ~6 |
 | Food | ICA Gäddede · top-up Klimpfjäll Handlar'n | Handlar'n on arrival |
 
-Own pulk. We share tent and stove. I continue north from Hemavan; Klaartje will join there.
+Own pulk. We share tent and stove for the tent nights. At the four Länsstyrelsen huts we sleep inside. I continue north from Hemavan; Klaartje will join there.
 
-{{< gpx-map file="lapplandsleden.gpx" file2="lapplandsleden-vinter.gpx" default-layer="winter" >}}
+{{< gpx-map file="lapplandsleden.gpx" default-layer="winter" >}}
 
-Red is the line I had planned (summer trail, Klimpfjäll → Hemavan). Blue is the official winter trail, which starts at Borgafjäll.
+The GPX is the official winter trail from Borgafjäll. Gäddede sits south of that; the first two ski days are tent on the track until Slipsik.
+
+## Days
+
+Working dates from a 10 Feb start. They will slip with weather. We **sleep in the huts** when the day ends at one. Tent on the other nights. **Klimpfjäll join:** rest 7–8 Mar, ski from 9 Mar.
+
+| Date | Place | km | ↑ | ↓ | Sleep |
+|------|-------|---:|--:|--:|-------|
+| 2–3 Mar | Gäddede | — | — | — | shop + rest |
+| 4 Mar | Camp | 25 | 139 | 27 | tent |
+| 5 Mar | Camp | 25 | 250 | 97 | tent |
+| 6 Mar | Slipsik | 25 | 535 | 268 | hut |
+| 7 Mar | Klimpfjäll | 8 | 45 | 353 | shop |
+| 8 Mar | Klimpfjäll | — | — | — | rest |
+| 9 Mar | Camp | 17 | 547 | 304 | tent |
+| 10 Mar | Åtnikstugan | 24 | 268 | 431 | hut |
+| 11 Mar | Camp | 25 | 409 | 465 | tent · kalfjäll |
+| 12 Mar | Arevattnet | 24 | 830 | 669 | hut |
+| 13 Mar | Atostugan | 25 | 510 | 741 | tent |
+| 14 Mar | Camp | 26 | 643 | 476 | tent |
+| 15 Mar | Hemavan | 13 | 274 | 201 | shop |
+
+9 Mar is short of **Tjåkkele**; that hut is on the way to Åtnik the next day. If we reach it in time we sleep there instead. 11 Mar is the long gap on the kalfjäll. **Gränssjöarna** is about a kilometre off Arevattnet if you want a cabin or a shower.
 
 ## Huts — not free, and you still need a tent
 
@@ -30,17 +52,13 @@ Länsstyrelsen has **four** overnight huts on the trail: **Slipsik**, **Tjåkkel
 
 **200 kr per person per night** if you sleep inside (children 0–15 free). Pay afterwards — Swish or transfer, details in the hut. They are **not** STF, and they are **not** free.
 
-Länsstyrelsen is clear: the gaps are long, so a **multi-day trip needs a tent**. Rastskydd along the way are for weather, not planned nights.
+We plan to **use them**. The tent is for the nights without a hut, and as backup if a hut is full or too cold. Länsstyrelsen is clear: the gaps are long, so a multi-day trip still needs a tent. Rastskydd along the way are for weather, not planned nights.
 
-## Are the camps at the huts?
+## Nights at the huts
 
-Mostly **next to them**, not a booking.
+The days are aimed at the hut line. Sleep **inside** at **Slipsik**, **Åtnik**, and **Arevattnet**. **Tjåkkele** if 9 Mar reaches it. [Gränssjöarna](https://granssjoarna.se/) is about a kilometre off Arevattnet (optional cabin / shower / sauna, phone first in March).
 
-After Klimpfjäll the days are aimed at the hut line: **Tjåkkele**, **Åtnikstugan** (named on the plan), then a **tent night on the kalfjäll** between Åtnik and Arevattnet — that gap is too long for one day at 25 km. Next is **Arevattnet**, with [Gränssjöarna](https://granssjoarna.se/) about a kilometre off (optional cabin / shower / sauna, phone first in March). Then tent toward Hemavan. **Atoklimpen** has a parking/rastplats at Atostugan; it is not one of the four official overnight huts.
-
-Gäddede → Klimpfjäll is **tent on the track**. Slipsik is the first hut, a day or two before the village. Borgafjäll hotel is about 24 km **east** — a storm detour, not the line.
-
-Default is still the tent, even at a hut. March huts can be cold or full.
+Gäddede → Slipsik is **tent on the track**. After Arevattnet: tent at **Atostugan** (parking/rastplats at Atoklimpen, not one of the four official overnight huts), then one more camp into Hemavan. Borgafjäll hotel is about 24 km **east** — a storm detour, not the line.
 
 ## Getting to Gäddede
 
