@@ -22,7 +22,7 @@ Own pulk. We share tent and stove for the tent nights. At the four Länsstyrelse
 
 {{< gpx-map file="lapplandsleden.gpx" default-layer="winter" >}}
 
-The GPX is the official winter trail from Borgafjäll. Gäddede sits south of that; the first two ski days are tent on the track until Slipsik.
+The line is Gäddede to Hemavan. Up to Klimpfjäll it is the track in from Gäddede; from there it is the official winter trail. The Borgafjäll start is not on this map. The first two ski days are tent until Slipsik.
 
 ## Days
 
