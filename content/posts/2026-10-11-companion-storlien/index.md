@@ -11,6 +11,10 @@ Own pulk, own food. We share one tent and one stove. Helags, Sylarna, and Blåha
 
 Working dates from a **5 February** start. They will slip with weather. Days **1–9** are the trip together. Days **10–14** are the next stretch, so you can see what is ahead if you stay on past Storlien.
 
+{{< gpx-map file="route.gpx" default-layer="winter" >}}
+
+The line runs from Grövelsjön to Storlien, then on through day 14 toward Kolåsen. You stop at Storlien.
+
 | | |
 |--|--|
 | Together | **Days 1–9** · Grövelsjön → Storlien · **156 km** |
