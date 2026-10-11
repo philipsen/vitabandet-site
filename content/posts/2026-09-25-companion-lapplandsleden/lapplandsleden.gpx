@@ -6,52 +6,32 @@
   </metadata>
   <wpt lat="64.503300" lon="14.151030">
     <name>Gäddede</name>
-    <desc>2–3 Mar · shop + rest</desc>
+    <desc>28 Feb–1 Mar · shop + rest</desc>
     <sym>Flag, Blue</sym>
-  </wpt>
-  <wpt lat="64.698190" lon="14.201910">
-    <name>4 Mar</name>
-    <desc>25 km · tent</desc>
-    <sym>Campground</sym>
-  </wpt>
-  <wpt lat="64.853700" lon="14.413310">
-    <name>5 Mar</name>
-    <desc>25 km · tent</desc>
-    <sym>Campground</sym>
   </wpt>
   <wpt lat="64.984010" lon="14.717960">
     <name>Slipsikstugan</name>
-    <desc>6 Mar · hut</desc>
+    <desc>4 Mar · hut</desc>
     <sym>Lodging</sym>
   </wpt>
   <wpt lat="65.052910" lon="14.769990">
     <name>Klimpfjäll</name>
-    <desc>7–8 Mar · shop + rest</desc>
+    <desc>5 Mar · shop</desc>
     <sym>Flag, Blue</sym>
-  </wpt>
-  <wpt lat="65.149998" lon="14.672513">
-    <name>9 Mar</name>
-    <desc>17 km · tent</desc>
-    <sym>Campground</sym>
   </wpt>
   <wpt lat="65.185522" lon="14.566881">
     <name>Tjåkkelestugan</name>
-    <desc>On 9–10 Mar · sleep here if we reach it</desc>
+    <desc>6 Mar · hut</desc>
     <sym>Lodging</sym>
   </wpt>
   <wpt lat="65.304438" lon="14.605300">
     <name>Åtnikstugan</name>
-    <desc>10 Mar · hut</desc>
+    <desc>7 Mar · hut</desc>
     <sym>Lodging</sym>
-  </wpt>
-  <wpt lat="65.418847" lon="14.762850">
-    <name>11 Mar</name>
-    <desc>25 km · tent on the kalfjäll</desc>
-    <sym>Campground</sym>
   </wpt>
   <wpt lat="65.516097" lon="14.549428">
     <name>Arevattnet</name>
-    <desc>12 Mar · hut</desc>
+    <desc>9 Mar · hut</desc>
     <sym>Lodging</sym>
   </wpt>
   <wpt lat="65.520000" lon="14.530000">
@@ -61,17 +41,12 @@
   </wpt>
   <wpt lat="65.683358" lon="14.589427">
     <name>Atostugan</name>
-    <desc>13 Mar · tent · rastplats</desc>
+    <desc>10 Mar · tent · rastplats</desc>
     <sym>Flag, Blue</sym>
-  </wpt>
-  <wpt lat="65.772468" lon="15.003717">
-    <name>14 Mar</name>
-    <desc>26 km · tent</desc>
-    <sym>Campground</sym>
   </wpt>
   <wpt lat="65.829230" lon="15.098280">
     <name>Hemavan</name>
-    <desc>15 Mar · shop</desc>
+    <desc>12 Mar · shop · rest 13 Mar</desc>
     <sym>Flag, Blue</sym>
   </wpt>
   <trk>

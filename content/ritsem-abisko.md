@@ -1,10 +1,10 @@
 ---
 title: "Ritsem to Abisko"
 date: 2026-09-16
-description: "The hut stretch on Kungsleden: Ritsem to Abisko, 1–7 April 2027."
+description: "The hut stretch on Kungsleden: Ritsem to Abisko, 3–10 April 2027."
 ---
 
-This is the hut stretch: **Ritsem → Abisko**, about **122 km**, **1–7 April**. Rest nights at both ends.
+This is the hut stretch: **Ritsem → Abisko**, about **121 km**, **4–10 April**. The shop day at Ritsem is **3 April**. Abisko is one night.
 
 {{< gpx-map file="/gpx/ritsem-abisko.gpx" default-layer="winter" >}}
 
@@ -14,18 +14,19 @@ That keeps me off the busy Kebnekaise corridor. Nights sit at staffed STF huts: 
 
 ## Days
 
-All nights are in staffed STF huts. Beds have **mattresses and duvets**; bring a sheet (or a liner) to cover them. Each hut has a **kitchen for guest use**. Hut shops sell some food — snacks, staples, freeze-dried when they have it — not a cooked meal. Ritsem has a café and a proper shop; Abisko has a restaurant and a grocery in the village.
+From Sitojaure to Abisko the nights are in staffed STF huts. The approach to Ritsem is tent. Beds have **mattresses and duvets**; bring a sheet (or a liner) to cover them. Each hut has a **kitchen for guest use**. Hut shops sell some food — snacks, staples, freeze-dried when they have it — not a cooked meal. Ritsem has a café and a proper shop; Abisko has a restaurant and a grocery in the village.
 
 | Date | Place | km | ↑ | ↓ | Sleep |
 |------|-------|---:|--:|--:|-------|
-| 30–31 Mar | Ritsem | — | — | — | STF · rest |
-| 1 Apr | Sitojaure | 22 | 265 | 148 | STF |
-| 2 Apr | Hukejaure | 19 | 407 | 152 | STF |
-| 3 Apr | Sälka | 20 | 195 | 202 | STF · sauna |
-| 4 Apr | Tjäktja | 14 | 293 | 176 | STF |
-| 5 Apr | Alesjaure | 12 | 58 | 259 | STF · sauna |
-| 6 Apr | Abiskojaure | 22 | 82 | 366 | STF · sauna |
-| 7–8 Apr | Abisko | 13 | 3 | 142 | STF · rest · sauna |
+| 2 Apr | Ritsem approach | 26 | 78 | 296 | tent |
+| 3 Apr | Ritsem | — | — | — | STF · shop |
+| 4 Apr | Sitojaure | 22 | 338 | 157 | STF |
+| 5 Apr | Hukejaure | 19 | 412 | 159 | STF |
+| 6 Apr | Sälka | 20 | 289 | 356 | STF |
+| 7 Apr | Tjäktja | 13 | 365 | 49 | STF |
+| 8 Apr | Alesjaure | 12 | 51 | 332 | STF |
+| 9 Apr | Abiskojaure | 22 | 117 | 432 | STF |
+| 10 Apr | Abisko | 13 | 24 | 144 | STF · shop |
 
 From Sälka north it is classic Kungsleden: Tjäktja pass, then down through the lakes to Abisko. Tjäktja is short but steep with a pulk.
 
@@ -47,9 +48,9 @@ This is the easiest public-transport gate on the trip. The likely way in is the 
 
 The morning bus from Gällivare Resecentrum is the usual winter departure. A night train that arrives around 08:00 can feed it if Laponia meets you at the station (they want 15–30 minutes). A night in Gällivare, then the morning bus, is the calm version.
 
-I am at STF Ritsem **30–31 March** (shop + rest). That is the natural meet.
+I am at STF Ritsem on **3 April** (shop). The night before is the approach. That is the natural meet.
 
-**Out.** Ski into **STF Abisko Turiststation**. The station is on the Malmbanan. Night train south toward Kiruna / Stockholm, or a day train. After a rest day I continue into Norway on Nordkalottleden toward Treriksröset.
+**Out.** Ski into **STF Abisko Turiststation** on **10 April**. The station is on the Malmbanan. Night train south toward Kiruna / Stockholm, or a day train. I leave the next morning on Nordkalottleden toward Treriksröset.
 
 ## Equipment
 

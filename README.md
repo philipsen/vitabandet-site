@@ -1,6 +1,6 @@
 # Vita Bandet 2027 — public site
 
-Public trip blog for a winter White Ribbon ski: Grövelsjön → Treriksröset, 10 Feb – 15 Apr 2027.
+Public trip blog for a winter White Ribbon ski: Grövelsjön → Treriksröset, 5 Feb – 18 Apr 2027.
 
 **Live:** [https://vitabandet.maak-t.com](https://vitabandet.maak-t.com)
 

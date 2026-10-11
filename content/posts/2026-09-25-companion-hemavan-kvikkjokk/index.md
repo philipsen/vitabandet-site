@@ -4,19 +4,19 @@ date: 2026-09-25
 draft: true
 ---
 
-This stretch is a good one if someone wants about ten ski days after Hemavan. We follow the Kungsleden-west / Hornavan corridor north to **Kvikkjokk**. Klaartje joins here; I continue after that.
+This stretch is a good one if someone wants about twelve ski days after Hemavan. We follow the Kungsleden-west / Hornavan corridor north to **Kvikkjokk**. Klaartje joins here; I continue after that.
 
 Two lengths: **all the way to Kvikkjokk**, or a shorter quit at **Ammarnäs** on the staffed hut chain. Both start in **Hemavan** (bus and a tiny airport). The exit from Kvikkjokk is thin — one weekday bus.
 
-Working dates from a 10 Feb start. They will slip with weather.
+Working dates from a **5 February** start. They will slip with weather.
 
 | | Full to Kvikkjokk | Shorter: Ammarnäs |
 |--|-------------------|-------------------|
-| Meet | **15 Mar** (shop, one night) | **15 Mar** (shop, one night) |
-| Ski out | 16 Mar | 16 Mar |
-| End | **25 Mar** Kvikkjokk | ~20 Mar Ammarnäs |
-| Ski days | ~10 | ~5 |
-| Food | ICA Hemavan · optional Ammarnäs / Jäckvik ICA | ICA Hemavan · Handlar'n Ammarnäs |
+| Meet | **12 Mar** (shop) · rest **13 Mar** | **12 Mar** (shop) · rest **13 Mar** |
+| Ski out | 14 Mar | 14 Mar |
+| End | **26 Mar** Kvikkjokk | **18 Mar** Ammarnäs |
+| Ski days | 12 | 5 |
+| Food | ICA Hemavan · optional Ammarnäs / Jäckvik | ICA Hemavan · Handlar'n Ammarnäs |
 
 Own pulk. We share tent and stove for the tent nights. At staffed **STF** huts we sleep inside. I continue north from Kvikkjokk.
 
@@ -26,31 +26,35 @@ The GPX is the working Band line. The first days can sit on Kungsleden and the S
 
 ## Days
 
-Working dates from a 10 Feb start. They will slip with weather. We **sleep in the STF huts** when we detour onto that chain. Tent on the other nights. **No rest day in Hemavan** — meet 15 Mar, ski 16 Mar.
+Working dates from a **5 February** start. They will slip with weather. We **sleep in the STF huts** on the first three ski days. Tent after that. Meet **12 Mar**, rest **13 Mar**, ski out **14 Mar**.
 
 | Date | Place | km | ↑ | ↓ | Sleep |
 |------|-------|---:|--:|--:|-------|
-| 15 Mar | Hemavan | — | — | — | shop |
-| 16 Mar | Camp | 25 | 323 | 446 | tent |
-| 17 Mar | Situjaure | 24 | 269 | 179 | tent |
-| 18 Mar | Camp | 26 | 71 | 334 | tent |
-| 19 Mar | Camp | 24 | 540 | 249 | tent |
-| 20 Mar | Adolfström | 24 | 129 | 373 | tent · cabin if open |
-| 21 Mar | Jäckvik | 21 | 450 | 481 | shop |
-| 22 Mar | Vuonatjluokta | 25 | 359 | 195 | tent |
-| 23 Mar | Suddumsuolo | 21.4 | 213 | 376 | tent |
-| 24 Mar | Tsielekjäkkstugan | 24.6 | 487 | 319 | tent |
-| 25 Mar | Kvikkjokk | 22 | 184 | 485 | STF |
+| 12 Mar | Hemavan · shop | — | — | — | town |
+| 13 Mar | Hemavan · rest | — | — | — | town |
+| 14 Mar | Viterskalet | 7 | 140 | 148 | STF |
+| 15 Mar | Syter | 12 | 222 | 317 | STF |
+| 16 Mar | Tärnasjön | 19 | 161 | 132 | STF |
+| 17 Mar | Situjaure approach | 11 | 159 | 213 | tent |
+| 18 Mar | Ammarnäs | 21 | 60 | 336 | tent · STF if you detour |
+| 19 Mar | Hobacken | 10 | 75 | 14 | tent |
+| 20 Mar | Hornavan | 23 | 566 | 300 | tent |
+| 21 Mar | Adolfström | 19 | 126 | 407 | tent |
+| 22 Mar | Rapadalen west | 45 | 769 | 664 | tent |
+| 23 Mar | Jäckvik | — | — | — | tent |
+| 24 Mar | toward Kvikkjokk | 22 | 292 | 199 | tent |
+| 25 Mar | Barkajahka | 22 | 233 | 280 | tent |
+| 26 Mar | Kvikkjokk · shop | 24 | 446 | 756 | STF |
 
-**25 Mar is a Thursday.** Bus out the next morning, or stay the weekend at STF and take Monday.
+**26 Mar is a Friday.** There is no Saturday bus. Stay the weekend at STF and take **Monday 29 Mar**.
 
 ## Huts — STF on the first days, then tent
 
 **STF Viterskalet**, **Syter**, **Tärnasjö**, and **Ammarnäs Wärdshus** are the staffed Kungsleden chain out of Hemavan. Winter is typically late February into early May — they should be open in March. Book if you can; they are not free, and they are not unlocked Länsstyrelsen huts.
 
-The working ~25 km days do **not** land on Viterskalet (that hut is only about 11 km from Hemavan). We pass it on 16 Mar. **Syter** is about a kilometre off on 17 Mar. **Tärnasjö** is a detour. If we want hut nights we shorten those days and sleep inside.
+The first ski days land on the huts: **Viterskalet** (14 Mar, 7 km), **Syter** (15 Mar), **Tärnasjön** (16 Mar). We sleep inside.
 
-After Ammarnäs the Band stays **west** of the villages. Optional east detours: **Adolfström** camping/cabins (~7 km), **Jäckvik** (shop, pass west). **Tsielekjäkkstugan** is a named stuga on the track — tent, not STF.
+After Ammarnäs the Band stays **west** of the villages. Optional east detours: **Adolfström** camping/cabins (~7 km), **Jäckvik** (pass west; 23 Mar is a day with no ski). Tent on those nights.
 
 **STF Kvikkjokk** at the end. Phone ahead. There is **no tent field** at the station.
 
@@ -58,7 +62,7 @@ The tent is for the nights without a hut, and as backup if a hut is full. Ice on
 
 ## Shorter quit at Ammarnäs
 
-About **70 km**, five or six days, hut to hut: Hemavan → Viterskalet → Syter → Tärnasjö → Ammarnäs. Then **bus 341** Ammarnäs → Sorsele (~75 min) and onward toward Umeå. Night at STF Wärdshus, morning bus. I keep going west of the village toward Kvikkjokk.
+About **70 km**, five ski days: Hemavan rest, then Viterskalet → Syter → Tärnasjön → the Situjaure approach → **Ammarnäs on 18 Mar**. Then **bus 341** Ammarnäs → Sorsele (~75 min) and onward toward Umeå. Night at STF Wärdshus, morning bus **Friday 19 Mar**. I keep going west of the village toward Kvikkjokk.
 
 ## Getting to Hemavan
 
@@ -68,7 +72,7 @@ This is the easy start.
 
 **Plane:** [Hemavan Tärnaby Airport](https://www.hemavantarnabyairport.se/) is in the village. **PopulAir** Arlanda ↔ Hemavan, about **six days a week** in winter (often **no Saturday**). March is high season on the state route, often two weekday round trips. Times are not up for March 2027 yet; last winter a typical pattern was **Arlanda ~08:50 → Hemavan late morning**, and an **afternoon** flight back. Book [populair.com](https://www.populair.com/). Local **320** covers Hemavan–Tärnaby.
 
-**15 Mar is a Monday**, so both the bus and a weekday flight should exist. I arrive that afternoon and shop; we ski out **16 Mar**. Do not plan a tight same-day connection onto the trail.
+**12 Mar is a Friday**, so both the bus and a weekday flight should exist. I arrive that afternoon and shop. Rest is **Saturday 13 Mar**. We ski out **Sunday 14 Mar**. Do not plan a tight same-day connection onto the trail.
 
 Skis: packed, in the luggage space if there is room — the driver decides.
 
@@ -86,7 +90,7 @@ Winter pattern now (check [nll.se](https://www.nll.se/) / Resrobot / the [STF FA
 
 One run a weekday, early. **No winter weekend 47.** From Jokkmokk: bus toward **Murjek** / **Gällivare**, then SJ / Norrtåg south.
 
-Thursday arrival makes **Fri 26 Mar ~05:25** possible (next morning). Tight after a ski day — skip it and stay **Thu–Sun** at STF, then **Mon 29 Mar ~05:25**. Taxi Jokkmokk is the expensive bail.
+Friday arrival means the next bus is **Mon 29 Mar ~05:25**. Stay **Fri–Sun** at STF. Taxi Jokkmokk is the expensive bail.
 
 If the ski is late, wait in Kvikkjokk. Do not plan a tight same-day connection off the trail.
 

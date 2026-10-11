@@ -3,109 +3,117 @@ title: "Itinerary"
 date: 2026-09-14
 ---
 
-Working schedule: **10 Feb – 15 Apr 2027**. Camps and kilometres will slip; the daily log is the record of what actually happened.
+Working schedule: **5 Feb – 18 Apr 2027**. Camps and kilometres will slip; the daily log is the record of what actually happened.
 
 {{< gpx-map file="/gpx/planned.gpx" default-layer="winter" >}}
 
-The line is the planned ski, with camp pins at about 25 km a day.
+The line is the planned ski, Grövelsjön to Treriksröset, about **1,295 km** over **73 days**. Pins are the nights.
 
 ## Milestones
 
 | Date | Place | km |
 |------|-------|---:|
-| 10 Feb | Start · Klacken | 15 |
-| 12 Feb | Tänndalen | 60 |
-| 14 Feb | Helags | 106 |
-| 17–18 Feb | Storlien · rest | 159 |
-| 26–27 Feb | Valsjöbua · rest | 341 |
-| 2–3 Mar | Gäddede · rest | 409 |
-| 7–8 Mar | Klimpfjäll · rest | 492 |
-| 15 Mar | Hemavan · Klaartje in | 646 |
-| 21 Mar | Jäckvik | 790 |
-| 25 Mar | Kvikkjokk · Klaartje out | 883 |
-| 30–31 Mar | Ritsem · rest | 1009 |
-| 3 Apr | Sälka | 1070 |
-| 7–8 Apr | Abisko · rest | 1131 |
-| 15 Apr | Treriksröset | 1299 |
+| 5 Feb | Hävlingestugorna | 11 |
+| 8 Feb | Tänndalen | 59 |
+| 11 Feb | past Helags | 116 |
+| 13–14 Feb | Storlien · rest | 156 |
+| 25 Feb | Valsjöbua | 354 |
+| 28 Feb–1 Mar | Gäddede · rest | 409 |
+| 5 Mar | Klimpfjäll | 492 |
+| 12–13 Mar | Hemavan · rest | 646 |
+| 23 Mar | Jäckvik | 813 |
+| 26 Mar | Kvikkjokk | 881 |
+| 3 Apr | Ritsem | 1006 |
+| 6 Apr | Sälka | 1067 |
+| 10 Apr | Abisko | 1127 |
+| 18 Apr | Treriksröset | 1295 |
 
 ## Rest nights
 
-Storlien, Valsjöbua, Gäddede, Klimpfjäll, Ritsem, Abisko (arrive + rest). Hemavan and Jäckvik are one night only.
+Days with no ski: **Storlien** (14 Feb), **Gäddede** (1 Mar), **Hemavan** (13 Mar), **Jäckvik** (23 Mar), **Ritsem** (3 Apr). Jäckvik follows the 45 km day west of Rapadalen. Abisko is one night.
 
 ## Shops along the way
 
-Storlien · Valsjöbua · Gäddede · Klimpfjäll · Hemavan · Jäckvik · Kvikkjokk · Ritsem · Abisko.
+Storlien · Valsjöbua · Gäddede · Klimpfjäll · Hemavan · Kvikkjokk · Ritsem · Abisko.
 
 ## Days
 
-Same working schedule as the [camp-site post](/posts/2026-09-17-planning-camp-sites/). Unnamed nights are a kilometre mark on the track, not a booked site. Shop is on the arrive day. Dates will slip.
+Dates will slip. Shop is marked on the day you use it. Elevation is a rough guide. Helags, Sylarna, and Blåhammaren stay closed until 5 March, so those nights are tent. The night named Anjan is on the Skalstugan side of the line, not at the bus stop.
 
-| Date | Place | km | ↑ | ↓ | m |
-|------|-------|---:|--:|--:|--:|
-| 10 Feb | Klacken | 15 | 209 | 261 | 781 |
-| 11 Feb | Rötviken | 20.5 | 36 | 55 | 763 |
-| 12 Feb | Tänndalen | 24.5 | 370 | 375 | 749 |
-| 13 Feb | Camp | 22 | 387 | 376 | 755 |
-| 14 Feb | Helags | 24 | 537 | 326 | 966 |
-| 15 Feb | Gamla Sylen | 22.5 | 263 | 290 | 935 |
-| 16 Feb | Sevedholm | 20.5 | 441 | 720 | 640 |
-| 17 Feb | Storlien · shop | 10 | 142 | 178 | 602 |
-| 18 Feb | Storlien · rest | — | — | — | 602 |
-| 19 Feb | Camp | 19 | 217 | 195 | 616 |
-| 20 Feb | Camp | 26 | 372 | 352 | 637 |
-| 21 Feb | Camp | 25 | 59 | 271 | 424 |
-| 22 Feb | Camp | 25 | 350 | 380 | 394 |
-| 23 Feb | Camp | 25 | 82 | 141 | 336 |
-| 24 Feb | Camp | 25 | 397 | 119 | 614 |
-| 25 Feb | Camp | 24 | 50 | 285 | 379 |
-| 26 Feb | Valsjöbua · shop | 13 | 192 | 230 | 341 |
-| 27 Feb | Valsjöbua · rest | — | — | — | 341 |
-| 28 Feb | Camp | 26 | 657 | 236 | 762 |
-| 1 Mar | Camp | 25 | 161 | 631 | 292 |
-| 2 Mar | Gäddede · shop | 17 | 234 | 215 | 311 |
-| 3 Mar | Gäddede · rest | — | — | — | 311 |
-| 4 Mar | Camp | 25 | 139 | 27 | 423 |
-| 5 Mar | Camp | 25 | 250 | 97 | 576 |
-| 6 Mar | Camp | 25 | 535 | 268 | 842 |
-| 7 Mar | Klimpfjäll · shop | 8 | 45 | 353 | 541 |
-| 8 Mar | Klimpfjäll · rest | — | — | — | 541 |
-| 9 Mar | Camp | 17 | 547 | 304 | 776 |
-| 10 Mar | Atnikstugan | 24 | 268 | 431 | 613 |
-| 11 Mar | Camp | 25 | 409 | 465 | 557 |
-| 12 Mar | Tärnaby west | 24 | 830 | 669 | 718 |
-| 13 Mar | Camp | 25 | 510 | 741 | 488 |
-| 14 Mar | Camp | 26 | 643 | 476 | 654 |
-| 15 Mar | Hemavan · shop | 13 | 274 | 201 | 728 |
-| 16 Mar | Camp | 25 | 323 | 446 | 605 |
-| 17 Mar | Situjaure | 24 | 269 | 179 | 695 |
-| 18 Mar | Camp | 26 | 71 | 334 | 432 |
-| 19 Mar | Camp | 24 | 540 | 249 | 723 |
-| 20 Mar | Adolfström | 24 | 129 | 373 | 479 |
-| 21 Mar | Jäckvik · shop | 21 | 450 | 481 | 439 |
-| 22 Mar | Vuonatjluokta | 25 | 359 | 195 | 613 |
-| 23 Mar | Suddumsuolo | 21.4 | 213 | 376 | 450 |
-| 24 Mar | Tsielekjäkkstugan | 24.6 | 487 | 319 | 618 |
-| 25 Mar | Kvikkjokk · shop | 22 | 184 | 485 | 311 |
-| 26 Mar | Camp | 25 | 218 | 25 | 504 |
-| 27 Mar | Camp | 25 | 232 | 24 | 712 |
-| 28 Mar | Camp | 25 | 305 | 282 | 734 |
-| 29 Mar | Kisurgis | 24 | 134 | 280 | 588 |
-| 30 Mar | Ritsem · shop | 27 | 130 | 216 | 503 |
-| 31 Mar | Ritsem · rest | — | — | — | 503 |
-| 1 Apr | Sitojaure | 22 | 265 | 148 | 616 |
-| 2 Apr | Hukejaure | 19 | 407 | 152 | 874 |
-| 3 Apr | Sälka | 20 | 195 | 202 | 864 |
-| 4 Apr | Tjäktja | 14 | 293 | 176 | 981 |
-| 5 Apr | Alesjaure | 12 | 58 | 259 | 780 |
-| 6 Apr | Abiskojaure | 22 | 82 | 366 | 488 |
-| 7 Apr | Abisko · shop | 13 | 3 | 142 | 368 |
-| 8 Apr | Abisko · rest | — | — | — | 368 |
-| 9 Apr | Camp | 21 | 380 | 31 | 717 |
-| 10 Apr | Altevasshytta | 24 | 408 | 590 | 535 |
-| 11 Apr | Camp | 27 | 512 | 320 | 727 |
-| 12 Apr | Dividalshytta | 25 | 357 | 492 | 592 |
-| 13 Apr | Camp | 25 | 350 | 247 | 695 |
-| 14 Apr | Camp | 25 | 406 | 490 | 611 |
-| 15 Apr | Treriksröset | 21 | 509 | 628 | 493 |
+| Date | Place | km | ↑ | ↓ |
+|------|-------|---:|--:|--:|
+| 5 Feb | Hävlingestugorna | 11 | 212 | 266 |
+| 6 Feb | Rogen | 17 | 66 | 93 |
+| 7 Feb | Broktjärnskojan | 21 | 181 | 41 |
+| 8 Feb | Tänndalen | 10 | 257 | 443 |
+| 9 Feb | Ramundberget west | 20 | 555 | 442 |
+| 10 Feb | past Fältjägaren | 19 | 488 | 340 |
+| 11 Feb | past Helags | 18 | 303 | 370 |
+| 12 Feb | Enkälen | 19 | 407 | 411 |
+| 13 Feb | Storlien · shop | 21 | 519 | 804 |
+| 14 Feb | Storlien · rest | — | — | — |
+| 15 Feb | Norder-Rensjön | 22 | 376 | 287 |
+| 16 Feb | Anjan | 18 | 285 | 373 |
+| 17 Feb | Hotagen | 19 | 192 | 249 |
+| 18 Feb | toward Kolåsen | 19 | 316 | 307 |
+| 19 Feb | Kolåsen | 18 | 183 | 319 |
+| 20 Feb | Olden approach | 17 | 108 | 95 |
+| 21 Feb | Olden | 13 | 80 | 147 |
+| 22 Feb | Ansättfjällen approach | 16 | 398 | 96 |
+| 23 Feb | Ansättfjällen | 19 | 69 | 86 |
+| 24 Feb | Regnfallet | 17 | 247 | 391 |
+| 25 Feb | Valsjöbua · shop | 20 | 549 | 214 |
+| 26 Feb | Björkvattnet | 21 | 419 | 677 |
+| 27 Feb | Gäddede west | 23 | 84 | 351 |
+| 28 Feb | Gäddede · shop | 11 | 276 | 260 |
+| 1 Mar | Gäddede · rest | — | — | — |
+| 2 Mar | Vilhelmina fjäll | 21 | 146 | 45 |
+| 3 Mar | Borgafjäll | 22 | 235 | 108 |
+| 4 Mar | Saxnäs | 21 | 362 | 291 |
+| 5 Mar | Klimpfjäll · shop | 19 | 361 | 435 |
+| 6 Mar | Tjakkelestugorna | 23 | 551 | 377 |
+| 7 Mar | Atnikstugan | 17 | 278 | 374 |
+| 8 Mar | Gränssjö | 23 | 528 | 573 |
+| 9 Mar | Tärnaby west | 27 | 1163 | 941 |
+| 10 Mar | Atostugan | 20 | 528 | 715 |
+| 11 Mar | Goeblejaevrie | 21 | 570 | 420 |
+| 12 Mar | Hemavan · shop | 23 | 527 | 467 |
+| 13 Mar | Hemavan · rest | — | — | — |
+| 14 Mar | Viterskalet | 7 | 140 | 148 |
+| 15 Mar | Syter | 12 | 222 | 317 |
+| 16 Mar | Tärnasjön | 19 | 161 | 132 |
+| 17 Mar | Situjaure approach | 11 | 159 | 213 |
+| 18 Mar | Ammarnäs | 21 | 60 | 336 |
+| 19 Mar | Hobacken | 10 | 75 | 14 |
+| 20 Mar | Hornavan | 23 | 566 | 300 |
+| 21 Mar | Adolfström | 19 | 126 | 407 |
+| 22 Mar | Rapadalen west | 45 | 769 | 664 |
+| 23 Mar | Jäckvik | — | — | — |
+| 24 Mar | toward Kvikkjokk | 22 | 292 | 199 |
+| 25 Mar | Barkajahka | 22 | 233 | 280 |
+| 26 Mar | Kvikkjokk · shop | 24 | 446 | 756 |
+| 27 Mar | Njunjes | 15 | 151 | 35 |
+| 28 Mar | Sämerlappa | 20 | 200 | 83 |
+| 29 Mar | Duottarstuga | 24 | 493 | 115 |
+| 30 Mar | Saltoluokta side | 12 | 106 | 236 |
+| 31 Mar | west of Saltoluokta | 17 | 152 | 146 |
+| 1 Apr | Kisurgis | 11 | 62 | 195 |
+| 2 Apr | Ritsem approach | 26 | 78 | 296 |
+| 3 Apr | Ritsem · shop | — | — | — |
+| 4 Apr | Sitojaure | 22 | 338 | 157 |
+| 5 Apr | Hukejaure | 19 | 412 | 159 |
+| 6 Apr | Sälka | 20 | 289 | 356 |
+| 7 Apr | Tjäktja | 13 | 365 | 49 |
+| 8 Apr | Alesjaure | 12 | 51 | 332 |
+| 9 Apr | Abiskojaure | 22 | 117 | 432 |
+| 10 Apr | Abisko · shop | 13 | 24 | 144 |
+| 11 Apr | Lappjordhytta | 20 | 27 | 92 |
+| 12 Apr | Altevasshytta | 25 | 767 | 515 |
+| 13 Apr | Gaskashytta | 11 | 89 | 176 |
+| 14 Apr | Vuomahytta | 19 | 544 | 289 |
+| 15 Apr | Dividalshytta | 22 | 176 | 592 |
+| 16 Apr | Daertahytta | 29 | 643 | 303 |
+| 17 Apr | Pältastugan | 29 | 617 | 576 |
+| 18 Apr | Treriksröset | 13 | 431 | 426 |
 
 The [Ritsem to Abisko](/ritsem-abisko/) stretch is hut-to-hut. Friends joining to Storlien: [Joining to Storlien](/posts/2026-10-11-companion-storlien/). Friends joining on Lapplandsleden: [Joining on Lapplandsleden](/posts/2026-09-25-companion-lapplandsleden/).

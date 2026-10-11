@@ -11,9 +11,9 @@ draft: false
 | | |
 |--|--|
 | Direction | South → north |
-| Dates | 10 Feb – 15 Apr 2027 |
-| Distance | ~1,299 km |
-| Days | 65, including 6 rest days |
+| Dates | 5 Feb – 18 Apr 2027 |
+| Distance | ~1,295 km |
+| Days | 73, including 5 days with no ski |
 | Travel | Ski + pulk |
 | Sleep | Mostly tent; huts at some shops and on Kungsleden |
 | Company | Mostly alone, some sections with friends |

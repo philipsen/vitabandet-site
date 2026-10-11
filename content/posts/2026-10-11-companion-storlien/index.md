@@ -56,7 +56,7 @@ If you came by train, Mora back to the Netherlands is those three hops in revers
 
 ### Car to Grövelsjön
 
-Drive all the way and leave the car there. Two roads. The drive home is the same choice backwards.
+Drive all the way and leave the car there. Three ways. The drive home is the same choice backwards.
 
 **All road, via Denmark and Mora.** Mora → Grövelsjön is about **190 km** and **2.5 h**, so the Netherlands → Grövelsjön is about **1,800–2,000 km** and **21–25 h** of driving, **2 nights** on the road.
 
@@ -68,7 +68,15 @@ Drive all the way and leave the car there. Two roads. The drive home is the same
 
 Driving on this route is about **1,430 km** and **16–17 h**, plus the crossing. A midday ferry can put you in Grövelsjön that evening. The late ferry means the mountain road the next morning.
 
-**Back to the car.** The Storlien → Mora hops above, then a night in Mora. The afternoon bus arrives after the last **396**. Next morning the same bus: **~3 h 20**, no change, **60 SEK**. Then drive home on either road. One-way tickets for this return are about **450–600 SEK** per person, **2 changes** (Östersund, then Mora the next morning). The hotel is extra. If Sunday’s 46 misses the train, sleep in Östersund and take the bus the next day. Check [ltr.se](https://ltr.se/), [Dalatrafik](https://www.dalatrafik.se/), and [Resrobot](https://www.resrobot.se/).
+**Via Oslo, on the Copenhagen ferry.** This is the night boat. You wake up in Oslo and drive the same mountain road.
+
+- To Copenhagen, through Germany and Denmark: about **800 km**, **9 h**. A long day if you want the same afternoon’s sailing.
+- [Go Nordic Cruiseline](https://www.gonordiccruiseline.com/ferry-to-norway/one-way-journey/) Copenhagen → Oslo: daily **16:30 → 10:00**, **17.5 h**, car and a cabin. One way from about **293 DKK** per person when you share the cabin and one car. Two people pay more. Bring a passport. February times: check the [sailing schedule](https://www.gonordiccruiseline.com/preparing-for-your-trip/sailing-schedule/).
+- Oslo → Grövelsjön: about **330 km**, **4.5–5 h**, the same Elverum / Trysil / Drevsjø road. Slower in February snow.
+
+Driving on this route is about **1,130 km** and **14 h**, plus the night on the boat. A morning start can make the **16:30** sailing, and Grövelsjön the next afternoon.
+
+**Back to the car.** The Storlien → Mora hops above, then a night in Mora. The afternoon bus arrives after the last **396**. Next morning the same bus: **~3 h 20**, no change, **60 SEK**. Then drive home on one of the roads above. One-way tickets for this return are about **450–600 SEK** per person, **2 changes** (Östersund, then Mora the next morning). The hotel is extra. If Sunday’s 46 misses the train, sleep in Östersund and take the bus the next day. Check [ltr.se](https://ltr.se/), [Dalatrafik](https://www.dalatrafik.se/), and [Resrobot](https://www.resrobot.se/).
 
 ## Days
 

@@ -6,23 +6,18 @@
   </metadata>
   <wpt lat="65.829230" lon="15.098280">
     <name>Hemavan</name>
-    <desc>15 Mar · shop</desc>
+    <desc>12 Mar · shop · rest 13 Mar</desc>
     <sym>Flag, Blue</sym>
   </wpt>
   <wpt lat="65.882000" lon="15.277000">
     <name>STF Viterskalet</name>
-    <desc>Optional hut · ~11 km from Hemavan</desc>
+    <desc>14 Mar · hut</desc>
     <sym>Lodging</sym>
   </wpt>
   <wpt lat="65.896500" lon="15.384500">
     <name>STF Syter</name>
-    <desc>Optional hut · ~1 km off · 17 Mar</desc>
+    <desc>15 Mar · hut</desc>
     <sym>Lodging</sym>
-  </wpt>
-  <wpt lat="65.931770" lon="15.467720">
-    <name>16 Mar</name>
-    <desc>25 km · tent</desc>
-    <sym>Campground</sym>
   </wpt>
   <wpt lat="65.972110" lon="15.762570">
     <name>Situjaure</name>
@@ -31,52 +26,27 @@
   </wpt>
   <wpt lat="65.993744" lon="15.573085">
     <name>STF Tärnasjö</name>
-    <desc>Optional hut detour</desc>
+    <desc>16 Mar · hut</desc>
     <sym>Lodging</sym>
-  </wpt>
-  <wpt lat="65.988180" lon="16.201630">
-    <name>18 Mar</name>
-    <desc>26 km · tent</desc>
-    <sym>Campground</sym>
   </wpt>
   <wpt lat="65.956600" lon="16.201400">
     <name>Ammarnäs</name>
-    <desc>Shorter quit · STF / bus 341</desc>
+    <desc>18 Mar · shorter quit · STF / bus 341</desc>
     <sym>Lodging</sym>
-  </wpt>
-  <wpt lat="66.170450" lon="16.359880">
-    <name>19 Mar</name>
-    <desc>24 km · tent</desc>
-    <sym>Campground</sym>
   </wpt>
   <wpt lat="66.278740" lon="16.660724">
     <name>Adolfström</name>
-    <desc>20 Mar · tent / cabin if open</desc>
+    <desc>21 Mar · tent</desc>
     <sym>Campground</sym>
   </wpt>
   <wpt lat="66.376098" lon="16.982782">
     <name>Jäckvik</name>
-    <desc>21 Mar · shop</desc>
+    <desc>23 Mar · no ski</desc>
     <sym>Flag, Blue</sym>
-  </wpt>
-  <wpt lat="66.562920" lon="17.232180">
-    <name>Vuonatjluokta</name>
-    <desc>22 Mar · tent</desc>
-    <sym>Campground</sym>
-  </wpt>
-  <wpt lat="66.662010" lon="17.418450">
-    <name>Suddumsuolo</name>
-    <desc>23 Mar · tent</desc>
-    <sym>Campground</sym>
-  </wpt>
-  <wpt lat="66.844930" lon="17.589190">
-    <name>Tsielekjäkkstugan</name>
-    <desc>24 Mar · tent</desc>
-    <sym>Campground</sym>
   </wpt>
   <wpt lat="66.953840" lon="17.719910">
     <name>Kvikkjokk</name>
-    <desc>25 Mar · STF</desc>
+    <desc>26 Mar · shop</desc>
     <sym>Flag, Blue</sym>
   </wpt>
   <trk>
