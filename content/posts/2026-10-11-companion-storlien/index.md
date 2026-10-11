@@ -71,7 +71,7 @@ Driving on this route is about **1,430 km** and **16–17 h**, plus the crossing
 **Via Oslo, on the Copenhagen ferry.** This is the night boat. You wake up in Oslo and drive the same mountain road.
 
 - To Copenhagen, through Germany and Denmark: about **800 km**, **9 h**. A long day if you want the same afternoon’s sailing.
-- [Go Nordic Cruiseline](https://www.gonordiccruiseline.com/ferry-to-norway/one-way-journey/) Copenhagen → Oslo: daily **16:30 → 10:00**, **17.5 h**, car and a cabin. One way from about **293 DKK** per person when you share the cabin and one car. Two people pay more. Bring a passport. February times: check the [sailing schedule](https://www.gonordiccruiseline.com/preparing-for-your-trip/sailing-schedule/).
+- [Go Nordic Cruiseline](https://www.gonordiccruiseline.com/ferry-to-norway/one-way-journey/) Copenhagen → Oslo: daily **16:30 → 10:00**, **17.5 h**. One way for two people and a VW bus, cabin included, is about **€150–190**. Bring a passport. February times: check the [sailing schedule](https://www.gonordiccruiseline.com/preparing-for-your-trip/sailing-schedule/).
 - Oslo → Grövelsjön: about **330 km**, **4.5–5 h**, the same Elverum / Trysil / Drevsjø road. Slower in February snow.
 
 Driving on this route is about **1,130 km** and **14 h**, plus the night on the boat. A morning start can make the **16:30** sailing, and Grövelsjön the next afternoon.
