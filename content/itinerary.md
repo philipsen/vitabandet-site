@@ -108,4 +108,4 @@ Same working schedule as the [camp-site post](/posts/2026-09-17-planning-camp-si
 | 14 Apr | Camp | 25 | 406 | 490 | 611 |
 | 15 Apr | Treriksröset | 21 | 509 | 628 | 493 |
 
-The [Ritsem to Abisko](/ritsem-abisko/) stretch is hut-to-hut. Friends joining on Lapplandsleden: [Joining on Lapplandsleden](/posts/2026-09-25-companion-lapplandsleden/).
+The [Ritsem to Abisko](/ritsem-abisko/) stretch is hut-to-hut. Friends joining to Storlien: [Joining to Storlien](/posts/2026-10-11-companion-storlien/). Friends joining on Lapplandsleden: [Joining on Lapplandsleden](/posts/2026-09-25-companion-lapplandsleden/).

@@ -9,6 +9,11 @@
   weight = 20
 
 [[main]]
+  name = "To Storlien"
+  pageRef = "posts/2026-10-11-companion-storlien"
+  weight = 22
+
+[[main]]
   name = "Ritsem–Abisko"
   pageRef = "ritsem-abisko"
   weight = 25
