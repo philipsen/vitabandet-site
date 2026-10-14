@@ -26,7 +26,7 @@ From Sitojaure to Abisko the nights are in staffed STF huts. The approach to Rit
 | 7 Apr | Tjäktja | 13 | 365 | 49 | STF |
 | 8 Apr | Alesjaure | 12 | 51 | 332 | STF |
 | 9 Apr | Abiskojaure | 22 | 117 | 432 | STF |
-| 10 Apr | Abisko | 13 | 24 | 144 | STF · shop |
+| 10 Apr | Abisko turiststation | 13 | 24 | 144 | STF · shop |
 
 From Sälka north it is classic Kungsleden: Tjäktja pass, then down through the lakes to Abisko. Tjäktja is short but steep with a pulk.
 

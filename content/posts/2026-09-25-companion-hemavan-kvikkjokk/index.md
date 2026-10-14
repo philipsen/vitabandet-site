@@ -37,14 +37,15 @@ Working dates from a **5 February** start. They will slip with weather. We **sle
 | 16 Mar | Tärnasjön | 19 | 161 | 132 | STF |
 | 17 Mar | Situjaure approach | 11 | 159 | 213 | tent |
 | 18 Mar | Ammarnäs | 21 | 60 | 336 | tent · STF if you detour |
-| 19 Mar | Hobacken | 10 | 75 | 14 | tent |
-| 20 Mar | Hornavan | 23 | 566 | 300 | tent |
-| 21 Mar | Adolfström | 19 | 126 | 407 | tent |
-| 22 Mar | Rapadalen west | 45 | 769 | 664 | tent |
-| 23 Mar | Jäckvik | — | — | — | tent |
+| 19 Mar | Hobacken | 20 | 544 | 33 | tent |
+| 20 Mar | Hornavan | 23 | 214 | 509 | tent |
+| 21 Mar | Pieljekaisestugan | 22 | 383 | 288 | cabin |
+| 22 Mar | Jäckvik | 9 | 114 | 388 | tent |
+| 23 Mar | Rapadalen west | 24 | 312 | 176 | tent |
 | 24 Mar | toward Kvikkjokk | 22 | 292 | 199 | tent |
 | 25 Mar | Barkajahka | 22 | 233 | 280 | tent |
 | 26 Mar | Kvikkjokk · shop | 24 | 446 | 756 | STF |
+| 27 Mar | Kvikkjokk · rest | — | — | — | STF |
 
 **26 Mar is a Friday.** There is no Saturday bus. Stay the weekend at STF and take **Monday 29 Mar**.
 
@@ -54,7 +55,7 @@ Working dates from a **5 February** start. They will slip with weather. We **sle
 
 The first ski days land on the huts: **Viterskalet** (14 Mar, 7 km), **Syter** (15 Mar), **Tärnasjön** (16 Mar). We sleep inside.
 
-After Ammarnäs the Band stays **west** of the villages. Optional east detours: **Adolfström** camping/cabins (~7 km), **Jäckvik** (pass west; 23 Mar is a day with no ski). Tent on those nights.
+After Ammarnäs the Band stays **west** of the villages. **Pieljekaisestugan** is the cabin on 21 Mar. **Jäckvik** is the next night (pass west; optional ICA). Tent on the nights without a hut.
 
 **STF Kvikkjokk** at the end. Phone ahead. There is **no tent field** at the station.
 

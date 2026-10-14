@@ -24,59 +24,17 @@ The line runs from Grövelsjön to Storlien, then on through day 14 toward Kolå
 
 ## From the Netherlands
 
-From the **Amsterdam / Amersfoort** area. Fares are advance prices from current listings. They move. A hotel night is separate from the ticket. February 2027 times are not all published yet.
+From the **Amsterdam / Amersfoort** area. Drive to Copenhagen, take the night ferry to Oslo, then drive to **Grövelsjön** and leave the car there. Fares are advance prices. A hotel night is separate. February 2027 times are not all published yet.
 
-### Via Mora
-
-Drive to Mora, or come by train. Then the same bus to Grövelsjön. If you drove, the car waits in Mora.
-
-**Car.** About **1,600–1,800 km**, **18–22 h** of driving, **1–2 nights** on the road. Winter, via Denmark or a ferry from Germany to Sweden.
-
-**Train, then the bus.** About a day and a night, **3 changes** (Hamburg, Stockholm, Mora). One-way tickets per person, bought ahead, about **€110–180**.
-
-| Hop | Time | Changes | One way / person |
-|-----|------|--------:|------------------|
-| ICE, Amersfoort or Amsterdam → Hamburg | **4–4.5 h** | 0 | often **€20–50** (from ~€33) |
-| Night train Hamburg → Stockholm | **21:53 → 09:45** (~12 h) | 0 | couchette **~€40–45** |
-| SJ Stockholm → Mora | **~3 h 50**, afternoon | 0 | about **350 SEK** (from ~189) |
-| Dalatrafik **396** Mora → Grövelsjön fjällstationen | **~3 h 20** | 0 | **60 SEK** |
-
-Take the afternoon SJ. The night train reaches Stockholm after the morning train has left, so you sleep in Mora and ride the bus the next day. The 396 you want ends at **Grövelsjön fjällstationen**. Some trips stop short of it. Autumn 2026 pattern: weekday directs around **14:35** and **16:22**, weekend **07:20**. Skis and a pulk go in the hold if there is room. The driver decides. Fuel stays off the bus. Check [Dalatrafik](https://www.dalatrafik.se/).
-
-**Back to Mora.** One travel day, **1 change** in Östersund. One-way tickets about **400–550 SEK** per person. The Storlien train is in [Out from Storlien](#out-from-storlien).
-
-| Hop | Time | Changes | One way / person |
-|-----|------|--------:|------------------|
-| Norrtåg Storlien → Östersund | **09:27 → 11:27** (2 h) | 0 | about **250–350 SEK** |
-| Länstrafiken **46** Östersund → Mora | about **5 h** | 0 | from about **156 SEK** |
-
-On weekdays the useful 46 is early afternoon, so you wait in Östersund after the train. Sunday 14 February is thinner. Check [ltr.se](https://ltr.se/).
-
-If you came by train, Mora back to the Netherlands is those three hops in reverse. Another **~€110–180** per person, another **3 changes**, another day and a night.
-
-### Car to Grövelsjön
-
-Drive all the way and leave the car there. Three ways. The drive home is the same choice backwards.
-
-**All road, via Denmark and Mora.** Mora → Grövelsjön is about **190 km** and **2.5 h**, so the Netherlands → Grövelsjön is about **1,800–2,000 km** and **21–25 h** of driving, **2 nights** on the road.
-
-**Via Oslo, on the Hirtshals–Larvik ferry.** This skips Sweden and the bridge tolls. The crossing is about **3 h 45**, in a seat.
-
-- To Hirtshals, through Germany and Denmark: about **970 km**, **10 h**. A long day, or one night in northern Denmark.
-- [Color Line](https://www.colorline.com/denmark-norway/ferry-hirtshals-larvik) Hirtshals → Larvik. In winter often one or two sailings a day. A current timetable has a midday departure and a late evening one that reaches Larvik around **03:00**. One way from about **€53 per person** when four people share one car. Two people with a car pay more. Book both ways and the return is **10%** off. Bring a passport. February times: check Color Line.
-- Larvik → Oslo: about **130 km**, **1.5 h**. Oslo → Grövelsjön: about **330 km**, **4.5–5 h**, via Elverum, Trysil, and Drevsjø, then the border road. Together about **460 km** and **6.5 h** after the ferry. February snow makes the last part slower. Winter tyres. Check [vegvesen.no](https://www.vegvesen.no/).
-
-Driving on this route is about **1,430 km** and **16–17 h**, plus the crossing. A midday ferry can put you in Grövelsjön that evening. The late ferry means the mountain road the next morning.
-
-**Via Oslo, on the Copenhagen ferry.** This is the night boat. You wake up in Oslo and drive the same mountain road.
-
-- To Copenhagen, through Germany and Denmark: about **800 km**, **9 h**. A long day if you want the same afternoon’s sailing.
+- To Copenhagen, through Germany and Denmark: about **800 km**, **9 h**. A morning start can make the same afternoon’s sailing.
 - [Go Nordic Cruiseline](https://www.gonordiccruiseline.com/ferry-to-norway/one-way-journey/) Copenhagen → Oslo: daily **16:30 → 10:00**, **17.5 h**. One way for two people and a VW bus, cabin included, is about **€150–190**. Bring a passport. February times: check the [sailing schedule](https://www.gonordiccruiseline.com/preparing-for-your-trip/sailing-schedule/).
-- Oslo → Grövelsjön: about **330 km**, **4.5–5 h**, the same Elverum / Trysil / Drevsjø road. Slower in February snow.
+- Oslo → Grövelsjön: about **330 km**, **4.5–5 h**, via Elverum, Trysil, and Drevsjø. Slower in February snow. Winter tyres. Check [vegvesen.no](https://www.vegvesen.no/).
 
-Driving on this route is about **1,130 km** and **14 h**, plus the night on the boat. A morning start can make the **16:30** sailing, and Grövelsjön the next afternoon.
+Driving is about **1,130 km** and **14 h**, plus the night on the boat. Grövelsjön the next afternoon. Home is that road in reverse: Oslo **16:30** → Copenhagen **10:00**.
 
-**Back to the car.** The Storlien → Mora hops above, then a night in Mora. The afternoon bus arrives after the last **396**. Next morning the same bus: **~3 h 20**, no change, **60 SEK**. Then drive home on one of the roads above. One-way tickets for this return are about **450–600 SEK** per person, **2 changes** (Östersund, then Mora the next morning). The hotel is extra. If Sunday’s 46 misses the train, sleep in Östersund and take the bus the next day. Check [ltr.se](https://ltr.se/), [Dalatrafik](https://www.dalatrafik.se/), and [Resrobot](https://www.resrobot.se/).
+All-road via Denmark, the Hirtshals–Larvik ferry, and the train to Mora are other ways to the same start.
+
+**Back to the car.** After Storlien, the morning train and a bus toward Mora, then the bus up to the car. The Storlien train is in [Out from Storlien](#out-from-storlien): **09:27 → Östersund 11:27**. Länstrafiken **46** Östersund → Mora is about **5 h** (from about **156 SEK**). On weekdays the useful 46 is early afternoon, so you wait in Östersund. That arrives after the last Dalatrafik **396**. Sleep in Mora. Next morning the 396 to Grövelsjön fjällstationen: **~3 h 20**, no change, **60 SEK**. Then drive home. Tickets about **450–600 SEK** per person, **2 changes**. The hotel is extra. Sunday 14 February is thinner; if the 46 misses, sleep in Östersund. Skis and a pulk go in the hold if there is room. Fuel stays off the bus. Check [ltr.se](https://ltr.se/), [Dalatrafik](https://www.dalatrafik.se/), and [Resrobot](https://www.resrobot.se/).
 
 ## Days
 
@@ -103,7 +61,7 @@ Day 12’s camp is on the line near **Skalstugan**, not at the Anjan bus stop. *
 
 ## Out from Storlien
 
-This is the local exit. Night in town (STF Storliens fjällgård or Högfjällshotell). Morning train toward **Östersund**. From there, back to Mora or on to the car at Grövelsjön, is [From the Netherlands](#from-the-netherlands).
+This is the local exit. Night in town (STF Storliens fjällgård or Högfjällshotell). Morning train toward **Östersund**, then on to the car at Grövelsjön: [From the Netherlands](#from-the-netherlands).
 
 On the Norrtåg timetable for **10 August – 12 December 2026**, weekday and weekend trains leave Storlien at **09:27** and **18:37**. The 09:27 is in **Östersund C at 11:27**. The national timetable changes in mid-December, so February 2027 will not be this sheet. Check [Norrtåg](https://norrtag.se/tidtabeller/) and [SJ](https://www.sj.se/) before you book. Skis and a packed pulk are luggage; ask when you buy the ticket.
 

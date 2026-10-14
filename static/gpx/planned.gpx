@@ -118,14 +118,14 @@
   <wpt lat="65.956600" lon="16.201400">
     <name>Ammarnäs</name>
   </wpt>
-  <wpt lat="66.038631" lon="16.191915">
+  <wpt lat="66.097393" lon="16.307962">
     <name>Hobacken</name>
   </wpt>
-  <wpt lat="66.207438" lon="16.382204">
+  <wpt lat="66.278986" lon="16.462929">
     <name>Hornavan</name>
   </wpt>
-  <wpt lat="66.279435" lon="16.657072">
-    <name>Adolfström</name>
+  <wpt lat="66.352020" lon="16.837720">
+    <name>Pieljekaisestugan</name>
   </wpt>
   <wpt lat="66.505975" lon="17.239124">
     <name>Rapadalen west</name>
@@ -151,11 +151,8 @@
   <wpt lat="67.263683" lon="17.033518">
     <name>Duottarstuga</name>
   </wpt>
-  <wpt lat="67.334374" lon="17.205995">
+  <wpt lat="67.400207" lon="17.151953">
     <name>Saltoluokta side</name>
-  </wpt>
-  <wpt lat="67.473778" lon="17.155897">
-    <name>west of Saltoluokta</name>
   </wpt>
   <wpt lat="67.559541" lon="17.204996">
     <name>Kisurgis</name>
@@ -184,8 +181,8 @@
   <wpt lat="68.286531" lon="18.595369">
     <name>Abiskojaure</name>
   </wpt>
-  <wpt lat="68.350000" lon="18.830000">
-    <name>Abisko</name>
+  <wpt lat="68.358392" lon="18.783634">
+    <name>Abisko turiststation</name>
   </wpt>
   <wpt lat="68.514169" lon="18.634692">
     <name>Lappjordhytta</name>

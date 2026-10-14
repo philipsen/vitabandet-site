@@ -4,15 +4,15 @@ date: 2026-09-14
 draft: true
 ---
 
-The route is a personal GPX, maintained in BaseCamp, along the White Ribbon corridor (pass **väster om** the six official waypoints). The public plan is the [itinerary](/itinerary/): **5 Feb – 18 Apr 2027**, about **1,295 km**, **73 days**.
+The route is a personal GPX, maintained in BaseCamp, along the White Ribbon corridor (pass **väster om** the six official waypoints). The public plan is the [itinerary](/itinerary/): **5 Feb – 18 Apr 2027**, about **1,296 km**, **73 days**.
 
 ## Pacing
 
-Ski days are mostly **11–29 km**. One day west of Rapadalen is **45 km**. Elevation along the line is a rough DEM guide, not a promise.
+Ski days are mostly **11–29 km**. Elevation along the line is a rough DEM guide, not a promise.
 
 ## Rest vs one night
 
-Days with no ski: **Storlien** (14 Feb), **Gäddede** (1 Mar), **Hemavan** (13 Mar), **Jäckvik** (23 Mar), **Ritsem** (3 Apr). Abisko is one night.
+Days with no ski: **Storlien** (14 Feb), **Gäddede** (1 Mar), **Hemavan** (13 Mar), **Kvikkjokk** (27 Mar), **Ritsem** (3 Apr). Abisko is one night.
 
 ## Companions
 

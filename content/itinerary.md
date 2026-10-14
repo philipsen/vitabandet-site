@@ -7,7 +7,7 @@ Working schedule: **5 Feb – 18 Apr 2027**. Camps and kilometres will slip; the
 
 {{< gpx-map file="/gpx/planned.gpx" default-layer="winter" >}}
 
-The line is the planned ski, Grövelsjön to Treriksröset, about **1,295 km** over **73 days**. Pins are the nights.
+The line is the planned ski, Grövelsjön to Treriksröset, about **1,296 km** over **73 days**. Pins are the nights.
 
 ## Milestones
 
@@ -21,16 +21,16 @@ The line is the planned ski, Grövelsjön to Treriksröset, about **1,295 km** o
 | 28 Feb–1 Mar | Gäddede · rest | 409 |
 | 5 Mar | Klimpfjäll | 492 |
 | 12–13 Mar | Hemavan · rest | 646 |
-| 23 Mar | Jäckvik | 813 |
-| 26 Mar | Kvikkjokk | 881 |
-| 3 Apr | Ritsem | 1006 |
-| 6 Apr | Sälka | 1067 |
-| 10 Apr | Abisko | 1127 |
-| 18 Apr | Treriksröset | 1295 |
+| 22 Mar | Jäckvik | 790 |
+| 26–27 Mar | Kvikkjokk · rest | 882 |
+| 3 Apr | Ritsem | 1007 |
+| 6 Apr | Sälka | 1068 |
+| 10 Apr | Abisko turiststation | 1128 |
+| 18 Apr | Treriksröset | 1296 |
 
 ## Rest nights
 
-Days with no ski: **Storlien** (14 Feb), **Gäddede** (1 Mar), **Hemavan** (13 Mar), **Jäckvik** (23 Mar), **Ritsem** (3 Apr). Jäckvik follows the 45 km day west of Rapadalen. Abisko is one night.
+Days with no ski: **Storlien** (14 Feb), **Gäddede** (1 Mar), **Hemavan** (13 Mar), **Kvikkjokk** (27 Mar), **Ritsem** (3 Apr). Abisko is one night.
 
 ## Shops along the way
 
@@ -84,20 +84,20 @@ Dates will slip. Shop is marked on the day you use it. Elevation is a rough guid
 | 16 Mar | Tärnasjön | 19 | 161 | 132 |
 | 17 Mar | Situjaure approach | 11 | 159 | 213 |
 | 18 Mar | Ammarnäs | 21 | 60 | 336 |
-| 19 Mar | Hobacken | 10 | 75 | 14 |
-| 20 Mar | Hornavan | 23 | 566 | 300 |
-| 21 Mar | Adolfström | 19 | 126 | 407 |
-| 22 Mar | Rapadalen west | 45 | 769 | 664 |
-| 23 Mar | Jäckvik | — | — | — |
+| 19 Mar | Hobacken | 20 | 544 | 33 |
+| 20 Mar | Hornavan | 23 | 214 | 509 |
+| 21 Mar | Pieljekaisestugan | 22 | 383 | 288 |
+| 22 Mar | Jäckvik | 9 | 114 | 388 |
+| 23 Mar | Rapadalen west | 24 | 312 | 176 |
 | 24 Mar | toward Kvikkjokk | 22 | 292 | 199 |
 | 25 Mar | Barkajahka | 22 | 233 | 280 |
 | 26 Mar | Kvikkjokk · shop | 24 | 446 | 756 |
-| 27 Mar | Njunjes | 15 | 151 | 35 |
-| 28 Mar | Sämerlappa | 20 | 200 | 83 |
-| 29 Mar | Duottarstuga | 24 | 493 | 115 |
-| 30 Mar | Saltoluokta side | 12 | 106 | 236 |
-| 31 Mar | west of Saltoluokta | 17 | 152 | 146 |
-| 1 Apr | Kisurgis | 11 | 62 | 195 |
+| 27 Mar | Kvikkjokk · rest | — | — | — |
+| 28 Mar | Njunjes | 15 | 151 | 35 |
+| 29 Mar | Sämerlappa | 20 | 200 | 83 |
+| 30 Mar | Duottarstuga | 24 | 493 | 115 |
+| 31 Mar | Saltoluokta side | 20 | 194 | 305 |
+| 1 Apr | Kisurgis | 20 | 108 | 308 |
 | 2 Apr | Ritsem approach | 26 | 78 | 296 |
 | 3 Apr | Ritsem · shop | — | — | — |
 | 4 Apr | Sitojaure | 22 | 338 | 157 |
@@ -106,7 +106,7 @@ Dates will slip. Shop is marked on the day you use it. Elevation is a rough guid
 | 7 Apr | Tjäktja | 13 | 365 | 49 |
 | 8 Apr | Alesjaure | 12 | 51 | 332 |
 | 9 Apr | Abiskojaure | 22 | 117 | 432 |
-| 10 Apr | Abisko · shop | 13 | 24 | 144 |
+| 10 Apr | Abisko turiststation · shop | 13 | 24 | 144 |
 | 11 Apr | Lappjordhytta | 20 | 27 | 92 |
 | 12 Apr | Altevasshytta | 25 | 767 | 515 |
 | 13 Apr | Gaskashytta | 11 | 89 | 176 |
