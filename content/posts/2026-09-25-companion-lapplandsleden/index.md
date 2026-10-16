@@ -73,7 +73,7 @@ Winter pattern now (check [ltr.se](https://ltr.se/) / Resrobot before you book �
 | Sat | **no bus** | **no bus** |
 | Sun | **19:10** toward Gäddede | **16:45** toward Strömsund |
 
-To hit **15:25** in Strömsund: train to **Östersund**, then **bus 142** Östersund → Strömsund (~1¼ h, several weekday runs). From the south that is a **morning train to Östersund**, bus, then 425. The useful arrival is **Fri 26 Feb ~17:25**, so you have Saturday in Gäddede before the shop day. Shop is **Sunday 28 Feb**, rest **Monday 1 Mar**, ski out **Tuesday 2 Mar**. Camping is year-round, or Pilgrimshotellet. The Sunday 19:10 bus lands late on the shop day.
+To hit **15:25** in Strömsund: train to **Östersund**, then **bus 142** Östersund → Strömsund (~1¼ h, several weekday runs). From the south that is a **morning train to Östersund**, bus, then 425. The useful arrival is **Fri 26 Feb ~17:25**, so you have Saturday in Gäddede before the shop day. Shop is **Sunday 28 Feb**, rest **Monday 1 Mar**, ski out **Tuesday 2 Mar**. Stay at [Pilgrimshotellet](https://www.pilgrimshotellet.se/). Gäddede Camping is open year-round if you want a pitch. The Sunday 19:10 bus lands late on the shop day.
 
 Skis: packed, in the luggage space if there is room — the driver decides.
 

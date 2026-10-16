@@ -9,6 +9,8 @@ This is the opening leg if you want about nine ski days, then a train. We start 
 
 Own pulk, own food. We share one tent and one stove. Helags, Sylarna, and Blåhammaren are closed until 5 March, so the alpine nights are tent.
 
+Food for these nine days comes from home. Each person packs their own. Breakfast is cruesli with milk powder, mixed cold. Lunch is bars, nuts, and dried fruit. Three cooked dinners cover the first three nights, then three freeze-dried meals. Days 7 and 8 are breakfast and lunch. Dinner in Storlien is at the hotel.
+
 Working dates from a **5 February** start. They will slip with weather. Days **1–9** are the trip together. Days **10–14** are the next stretch, so you can see what is ahead if you stay on past Storlien.
 
 {{< gpx-map file="route.gpx" default-layer="winter" >}}
@@ -61,7 +63,7 @@ Day 12’s camp is on the line near **Skalstugan**, not at the Anjan bus stop. *
 
 ## Out from Storlien
 
-This is the local exit. Night in town (STF Storliens fjällgård or Högfjällshotell). Morning train toward **Östersund**, then on to the car at Grövelsjön: [From the Netherlands](#from-the-netherlands).
+This is the local exit. Night at [Storlien Högfjällshotell](https://www.storlienhogfjallshotell.se/). STF Storliens fjällgård is the other stay in town. Morning train toward **Östersund**, then on to the car at Grövelsjön: [From the Netherlands](#from-the-netherlands).
 
 On the Norrtåg timetable for **10 August – 12 December 2026**, weekday and weekend trains leave Storlien at **09:27** and **18:37**. The 09:27 is in **Östersund C at 11:27**. The national timetable changes in mid-December, so February 2027 will not be this sheet. Check [Norrtåg](https://norrtag.se/tidtabeller/) and [SJ](https://www.sj.se/) before you book. Skis and a packed pulk are luggage; ask when you buy the ticket.
 
