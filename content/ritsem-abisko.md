@@ -1,10 +1,10 @@
 ---
 title: "Ritsem to Abisko"
 date: 2026-09-16
-description: "The hut stretch on Kungsleden: Ritsem to Abisko, 3–10 April 2027."
+description: "The hut stretch on Kungsleden: Ritsem to Abisko, 4–11 April 2027."
 ---
 
-This is the hut stretch: **Ritsem → Abisko**, about **121 km**, **4–10 April**. The shop day at Ritsem is **3 April**. Abisko is one night.
+This is the hut stretch: **Ritsem → Abisko**, about **121 km**, **5–11 April**. The shop day at Ritsem is **4 April**. Abisko is one night.
 
 {{< gpx-map file="/gpx/ritsem-abisko.gpx" default-layer="winter" >}}
 
@@ -18,15 +18,15 @@ From Sitojaure to Abisko the nights are in staffed STF huts. The approach to Rit
 
 | Date | Place | km | ↑ | ↓ | Sleep |
 |------|-------|---:|--:|--:|-------|
-| 2 Apr | Ritsem approach | 26 | 78 | 296 | tent |
-| 3 Apr | Ritsem | — | — | — | STF · shop |
-| 4 Apr | Sitojaure | 22 | 338 | 157 | STF |
-| 5 Apr | Hukejaure | 19 | 412 | 159 | STF |
-| 6 Apr | Sälka | 20 | 289 | 356 | STF |
-| 7 Apr | Tjäktja | 13 | 365 | 49 | STF |
-| 8 Apr | Alesjaure | 12 | 51 | 332 | STF |
-| 9 Apr | Abiskojaure | 22 | 117 | 432 | STF |
-| 10 Apr | Abisko turiststation | 13 | 24 | 144 | STF · shop |
+| 3 Apr | Ritsem approach | 26 | 78 | 296 | tent |
+| 4 Apr | Ritsem | — | — | — | STF · shop |
+| 5 Apr | Sitojaure | 22 | 338 | 157 | STF |
+| 6 Apr | Hukejaure | 19 | 412 | 159 | STF |
+| 7 Apr | Sälka | 20 | 289 | 356 | STF |
+| 8 Apr | Tjäktja | 13 | 365 | 49 | STF |
+| 9 Apr | Alesjaure | 12 | 51 | 332 | STF |
+| 10 Apr | Abiskojaure | 22 | 117 | 432 | STF |
+| 11 Apr | Abisko turiststation | 13 | 24 | 144 | STF · shop |
 
 From Sälka north it is classic Kungsleden: Tjäktja pass, then down through the lakes to Abisko. Tjäktja is short but steep with a pulk.
 
@@ -48,9 +48,9 @@ This is the easiest public-transport gate on the trip. The likely way in is the 
 
 The morning bus from Gällivare Resecentrum is the usual winter departure. A night train that arrives around 08:00 can feed it if Laponia meets you at the station (they want 15–30 minutes). A night in Gällivare, then the morning bus, is the calm version.
 
-I am at STF Ritsem on **3 April** (shop). The night before is the approach. That is the natural meet.
+I am at STF Ritsem on **4 April** (shop). The night before is the approach. That is the natural meet.
 
-**Out.** Ski into **STF Abisko Turiststation** on **10 April**. The station is on the Malmbanan. Night train south toward Kiruna / Stockholm, or a day train. I leave the next morning on Nordkalottleden toward Treriksröset.
+**Out.** Ski into **STF Abisko Turiststation** on **11 April**. The station is on the Malmbanan. Night train south toward Kiruna / Stockholm, or a day train. I leave the next morning on Nordkalottleden toward Treriksröset.
 
 ## Equipment
 

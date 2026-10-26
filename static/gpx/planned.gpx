@@ -2,7 +2,7 @@
 <gpx version="1.1" creator="vitabandet-site" xmlns="http://www.topografix.com/GPX/1/1">
   <metadata>
     <name>Vita Bandet 2027</name>
-    <desc>Planned ski Grövelsjön to Treriksröset, 5 Feb – 18 Apr 2027. Pins are the nights.</desc>
+    <desc>Planned ski Grövelsjön to Treriksröset, 5 Feb – 19 Apr 2027. Pins are the nights.</desc>
   </metadata>
   <wpt lat="62.185001" lon="12.390258">
     <name>Hävlingestugorna</name>
@@ -100,6 +100,9 @@
   <wpt lat="65.680441" lon="14.593450">
     <name>Atostugan</name>
   </wpt>
+  <wpt lat="65.782032" lon="14.816918">
+    <name>Goeblejaevrie</name>
+  </wpt>
   <wpt lat="65.830000" lon="15.080000">
     <name>Hemavan</name>
   </wpt>
@@ -109,29 +112,32 @@
   <wpt lat="65.892892" lon="15.396140">
     <name>Syter</name>
   </wpt>
-  <wpt lat="65.993744" lon="15.573085">
-    <name>Tärnasjön</name>
+  <wpt lat="65.988580" lon="15.497760">
+    <name>Tärnasjö</name>
   </wpt>
-  <wpt lat="65.973688" lon="15.766527">
-    <name>Situjaure approach</name>
+  <wpt lat="65.972110" lon="15.762570">
+    <name>Serve</name>
   </wpt>
-  <wpt lat="65.956600" lon="16.201400">
+  <wpt lat="65.956200" lon="16.209160">
     <name>Ammarnäs</name>
   </wpt>
-  <wpt lat="66.097393" lon="16.307962">
-    <name>Hobacken</name>
+  <wpt lat="66.039280" lon="16.210130">
+    <name>past Vindelåforsen</name>
   </wpt>
-  <wpt lat="66.278986" lon="16.462929">
-    <name>Hornavan</name>
+  <wpt lat="66.193490" lon="16.379730">
+    <name>past Hobacken</name>
+  </wpt>
+  <wpt lat="66.278740" lon="16.660720">
+    <name>Adolfström</name>
   </wpt>
   <wpt lat="66.352020" lon="16.837720">
-    <name>Pieljekaisestugan</name>
-  </wpt>
-  <wpt lat="66.505975" lon="17.239124">
-    <name>Rapadalen west</name>
+    <name>Pieljekaisestugan · passed</name>
   </wpt>
   <wpt lat="66.376098" lon="16.982782">
     <name>Jäckvik</name>
+  </wpt>
+  <wpt lat="66.505975" lon="17.239124">
+    <name>Rapadalen west</name>
   </wpt>
   <wpt lat="66.623589" lon="17.377637">
     <name>toward Kvikkjokk</name>

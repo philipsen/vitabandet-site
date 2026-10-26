@@ -12,9 +12,9 @@ Working dates from a **5 February** start. They will slip with weather.
 
 | | Gäddede start | Klimpfjäll start |
 |--|----------------|------------------|
-| Meet | **28 Feb–1 Mar** (shop + rest) | **5 Mar** (shop, then ski) |
-| Ski out | 2 Mar | 6 Mar |
-| Hemavan | **12 Mar** · rest **13 Mar** | **12 Mar** · rest **13 Mar** |
+| Meet | **28 Feb–1 Mar** (shop + rest) | **5–6 Mar** (shop + rest) |
+| Ski out | 2 Mar | 7 Mar |
+| Hemavan | **13 Mar** · rest **14 Mar** | **13 Mar** · rest **14 Mar** |
 | Ski days | 11 | 7 |
 | Food | ICA Gäddede · top-up Klimpfjäll Handlar'n | Handlar'n on arrival |
 
@@ -26,7 +26,7 @@ The line is Gäddede to Hemavan. Up to Klimpfjäll it is the track in from Gädd
 
 ## Days
 
-Working dates from a **5 February** start. They will slip with weather. We **sleep in the huts** when the day ends at one. Tent on the other nights. **Klimpfjäll join:** meet on 5 Mar and ski out on 6 Mar. There is no rest day in Klimpfjäll.
+Working dates from a **5 February** start. They will slip with weather. We **sleep in the huts** when the day ends at one. Tent on the other nights. **Klimpfjäll join:** meet on 5 Mar, rest 6 Mar, and ski out on 7 Mar.
 
 | Date | Place | km | ↑ | ↓ | Sleep |
 |------|-------|---:|--:|--:|-------|
@@ -36,16 +36,17 @@ Working dates from a **5 February** start. They will slip with weather. We **sle
 | 3 Mar | Borgafjäll | 22 | 235 | 108 | tent |
 | 4 Mar | Slipsik | 21 | 362 | 291 | hut |
 | 5 Mar | Klimpfjäll · shop | 19 | 361 | 435 | tent |
-| 6 Mar | Tjåkkele | 23 | 551 | 377 | hut |
-| 7 Mar | Åtnik | 17 | 278 | 374 | hut |
-| 8 Mar | Gränssjö | 23 | 528 | 573 | tent · kalfjäll |
-| 9 Mar | Arevattnet | 27 | 1163 | 941 | hut |
-| 10 Mar | Atostugan | 20 | 528 | 715 | tent |
-| 11 Mar | Goeblejaevrie | 21 | 570 | 420 | tent |
-| 12 Mar | Hemavan · shop | 23 | 527 | 467 | town |
-| 13 Mar | Hemavan · rest | — | — | — | town |
+| 6 Mar | Klimpfjäll · rest | — | — | — | tent |
+| 7 Mar | Tjåkkele | 23 | 551 | 377 | hut |
+| 8 Mar | Åtnik | 17 | 278 | 374 | hut |
+| 9 Mar | Gränssjö | 23 | 528 | 573 | tent · kalfjäll |
+| 10 Mar | Arevattnet | 27 | 1163 | 941 | hut |
+| 11 Mar | Atostugan | 20 | 528 | 715 | tent |
+| 12 Mar | Goeblejaevrie | 21 | 570 | 420 | tent |
+| 13 Mar | Hemavan · shop | 23 | 527 | 467 | town |
+| 14 Mar | Hemavan · rest | — | — | — | town |
 
-Hut nights are **Slipsik**, **Tjåkkele**, **Åtnik**, and **Arevattnet**. **8 Mar** is the long gap on the kalfjäll, between Åtnik and Arevattnet. **Gränssjöarna** is about a kilometre off that camp if you want a cabin or a shower. I ski into Gäddede on 28 Feb (11 km). If you join there, you can already be in the village.
+Hut nights are **Slipsik**, **Tjåkkele**, **Åtnik**, and **Arevattnet**. **9 Mar** is the long gap on the kalfjäll, between Åtnik and Arevattnet. **Gränssjöarna** is about a kilometre off that camp if you want a cabin or a shower. I ski into Gäddede on 28 Feb (11 km). If you join there, you can already be in the village.
 
 ## Huts — not free, and you still need a tent
 
@@ -57,7 +58,7 @@ We plan to **use them**. The tent is for the nights without a hut, and as backup
 
 ## Nights at the huts
 
-The days land on the hut line. Sleep **inside** at **Slipsik**, **Tjåkkele**, **Åtnik**, and **Arevattnet**. [Gränssjöarna](https://granssjoarna.se/) is about a kilometre off the 8 Mar camp (optional cabin / shower / sauna, phone first in March).
+The days land on the hut line. Sleep **inside** at **Slipsik**, **Tjåkkele**, **Åtnik**, and **Arevattnet**. [Gränssjöarna](https://granssjoarna.se/) is about a kilometre off the 9 Mar camp (optional cabin / shower / sauna, phone first in March).
 
 Gäddede → Slipsik is **tent on the track** (2 and 3 Mar). After Arevattnet: tent at **Atostugan** (parking/rastplats at Atoklimpen, not one of the four official overnight huts), then **Goeblejaevrie**, then Hemavan. Borgafjäll hotel is about 24 km **east** — a storm detour, not the line.
 
@@ -89,7 +90,7 @@ Typical winter pattern:
 | Sat | **no 420** | **no 420** |
 | Sun | **18:35** from Vilhelmina | check the PDF |
 
-**5 Mar 2027 is a Friday**, so the weekday 420 can land you that afternoon. I ski into Klimpfjäll the same day. We leave **Saturday 6 Mar**. There is no rest day in the village. Vilhelmina itself is on inland buses toward Umeå / Lycksele / Östersund, and has a small airport.
+**5 Mar 2027 is a Friday**, so the weekday 420 can land you that afternoon. I ski into Klimpfjäll the same day. Rest is **Saturday 6 Mar**. We leave **Sunday 7 Mar**. Vilhelmina itself is on inland buses toward Umeå / Lycksele / Östersund, and has a small airport.
 
 ## Home from Hemavan
 
@@ -99,7 +100,7 @@ This is the easy end.
 
 **Plane:** [Hemavan Tärnaby Airport](https://www.hemavantarnabyairport.se/) is in the village. **PopulAir** Arlanda ↔ Hemavan, about **six days a week** in winter (often **no Saturday**). March is high season on the state route, often two weekday round trips. Times are not up for March 2027 yet; last winter a typical pattern was **Arlanda ~08:50 → Hemavan late morning**, and an **afternoon** flight back. Book [populair.com](https://www.populair.com/). Local **320** covers Hemavan–Tärnaby.
 
-**12 Mar is a Friday**. I arrive that afternoon and shop. The rest day is **Saturday 13 Mar**. You can leave Saturday or Sunday. A Friday flight the afternoon we arrive is a tight connection off the trail.
+**13 Mar is a Saturday**. I arrive that afternoon and shop. The rest day is **Sunday 14 Mar**. You can leave Sunday or Monday. A Saturday flight the afternoon we arrive is often not in the winter pattern.
 
 If the ski is late, wait in Hemavan. Do not plan a tight same-day connection off the trail.
 

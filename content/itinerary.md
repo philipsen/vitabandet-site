@@ -3,11 +3,11 @@ title: "Itinerary"
 date: 2026-09-14
 ---
 
-Working schedule: **5 Feb – 18 Apr 2027**. Camps and kilometres will slip; the daily log is the record of what actually happened.
+Working schedule: **5 Feb – 19 Apr 2027**. Camps and kilometres will slip; the daily log is the record of what actually happened.
 
 {{< gpx-map file="/gpx/planned.gpx" default-layer="winter" >}}
 
-The line is the planned ski, Grövelsjön to Treriksröset, about **1,296 km** over **73 days**. Pins are the nights.
+The line is the planned ski, Grövelsjön to Treriksröset, about **1,296 km** over **74 days**. Pins are the nights.
 
 ## Milestones
 
@@ -19,22 +19,24 @@ The line is the planned ski, Grövelsjön to Treriksröset, about **1,296 km** o
 | 13–14 Feb | Storlien · rest | 156 |
 | 25 Feb | Valsjöbua | 354 |
 | 28 Feb–1 Mar | Gäddede · rest | 409 |
-| 5 Mar | Klimpfjäll | 492 |
-| 12–13 Mar | Hemavan · rest | 646 |
-| 22 Mar | Jäckvik | 790 |
-| 26–27 Mar | Kvikkjokk · rest | 882 |
-| 3 Apr | Ritsem | 1007 |
-| 6 Apr | Sälka | 1068 |
-| 10 Apr | Abisko turiststation | 1128 |
-| 18 Apr | Treriksröset | 1296 |
+| 5–6 Mar | Klimpfjäll · rest | 492 |
+| 13–14 Mar | Hemavan · rest | 646 |
+| 19 Mar | Ammarnäs | 716 |
+| 22 Mar | Adolfström | 769 |
+| 23 Mar | Jäckvik | 790 |
+| 27–28 Mar | Kvikkjokk · rest | 882 |
+| 4 Apr | Ritsem | 1007 |
+| 7 Apr | Sälka | 1068 |
+| 11 Apr | Abisko turiststation | 1128 |
+| 19 Apr | Treriksröset | 1296 |
 
 ## Rest nights
 
-Days with no ski: **Storlien** (14 Feb), **Gäddede** (1 Mar), **Hemavan** (13 Mar), **Kvikkjokk** (27 Mar), **Ritsem** (3 Apr). Abisko is one night.
+Days with no ski: **Storlien** (14 Feb), **Gäddede** (1 Mar), **Klimpfjäll** (6 Mar), **Hemavan** (14 Mar), **Kvikkjokk** (28 Mar), **Ritsem** (4 Apr). Abisko is one night.
 
 ## Shops along the way
 
-Storlien · Valsjöbua · Gäddede · Klimpfjäll · Hemavan · Kvikkjokk · Ritsem · Abisko.
+Storlien · Valsjöbua · Gäddede · Klimpfjäll · Hemavan · Ammarnäs · Adolfström · Kvikkjokk · Ritsem · Abisko.
 
 ## Days
 
@@ -71,49 +73,50 @@ Dates will slip. Shop is marked on the day you use it. Elevation is a rough guid
 | 3 Mar | Borgafjäll | 22 | 235 | 108 |
 | 4 Mar | Saxnäs | 21 | 362 | 291 |
 | 5 Mar | Klimpfjäll · shop | 19 | 361 | 435 |
-| 6 Mar | Tjakkelestugorna | 23 | 551 | 377 |
-| 7 Mar | Atnikstugan | 17 | 278 | 374 |
-| 8 Mar | Gränssjö | 23 | 528 | 573 |
-| 9 Mar | Tärnaby west | 27 | 1163 | 941 |
-| 10 Mar | Atostugan | 20 | 528 | 715 |
-| 11 Mar | Goeblejaevrie | 21 | 570 | 420 |
-| 12 Mar | Hemavan · shop | 23 | 527 | 467 |
-| 13 Mar | Hemavan · rest | — | — | — |
-| 14 Mar | Viterskalet | 7 | 140 | 148 |
-| 15 Mar | Syter | 12 | 222 | 317 |
-| 16 Mar | Tärnasjön | 19 | 161 | 132 |
-| 17 Mar | Situjaure approach | 11 | 159 | 213 |
-| 18 Mar | Ammarnäs | 21 | 60 | 336 |
-| 19 Mar | Hobacken | 20 | 544 | 33 |
-| 20 Mar | Hornavan | 23 | 214 | 509 |
-| 21 Mar | Pieljekaisestugan | 22 | 383 | 288 |
-| 22 Mar | Jäckvik | 9 | 114 | 388 |
-| 23 Mar | Rapadalen west | 24 | 312 | 176 |
-| 24 Mar | toward Kvikkjokk | 22 | 292 | 199 |
-| 25 Mar | Barkajahka | 22 | 233 | 280 |
-| 26 Mar | Kvikkjokk · shop | 24 | 446 | 756 |
-| 27 Mar | Kvikkjokk · rest | — | — | — |
-| 28 Mar | Njunjes | 15 | 151 | 35 |
-| 29 Mar | Sämerlappa | 20 | 200 | 83 |
-| 30 Mar | Duottarstuga | 24 | 493 | 115 |
-| 31 Mar | Saltoluokta side | 20 | 194 | 305 |
-| 1 Apr | Kisurgis | 20 | 108 | 308 |
-| 2 Apr | Ritsem approach | 26 | 78 | 296 |
-| 3 Apr | Ritsem · shop | — | — | — |
-| 4 Apr | Sitojaure | 22 | 338 | 157 |
-| 5 Apr | Hukejaure | 19 | 412 | 159 |
-| 6 Apr | Sälka | 20 | 289 | 356 |
-| 7 Apr | Tjäktja | 13 | 365 | 49 |
-| 8 Apr | Alesjaure | 12 | 51 | 332 |
-| 9 Apr | Abiskojaure | 22 | 117 | 432 |
-| 10 Apr | Abisko turiststation · shop | 13 | 24 | 144 |
-| 11 Apr | Lappjordhytta | 20 | 27 | 92 |
-| 12 Apr | Altevasshytta | 25 | 767 | 515 |
-| 13 Apr | Gaskashytta | 11 | 89 | 176 |
-| 14 Apr | Vuomahytta | 19 | 544 | 289 |
-| 15 Apr | Dividalshytta | 22 | 176 | 592 |
-| 16 Apr | Daertahytta | 29 | 643 | 303 |
-| 17 Apr | Pältastugan | 29 | 617 | 576 |
-| 18 Apr | Treriksröset | 13 | 431 | 426 |
+| 6 Mar | Klimpfjäll · rest | — | — | — |
+| 7 Mar | Tjakkelestugorna | 23 | 551 | 377 |
+| 8 Mar | Atnikstugan | 17 | 278 | 374 |
+| 9 Mar | Gränssjö | 23 | 528 | 573 |
+| 10 Mar | Tärnaby west | 27 | 1163 | 941 |
+| 11 Mar | Atostugan | 20 | 528 | 715 |
+| 12 Mar | Goeblejaevrie | 21 | 570 | 420 |
+| 13 Mar | Hemavan · shop | 23 | 527 | 467 |
+| 14 Mar | Hemavan · rest | — | — | — |
+| 15 Mar | Viterskalet | 7 | 140 | 148 |
+| 16 Mar | Syter | 12 | 222 | 317 |
+| 17 Mar | Tärnasjö | 19 | 161 | 132 |
+| 18 Mar | Serve | 11 | 129 | 167 |
+| 19 Mar | Ammarnäs · shop | 21 | 44 | 338 |
+| 20 Mar | past Vindelåforsen | 11 | 96 | 7 |
+| 21 Mar | past Hobacken | 21 | 501 | 263 |
+| 22 Mar | Adolfström · shop | 21 | 124 | 384 |
+| 23 Mar | Jäckvik | 21 | 444 | 475 |
+| 24 Mar | Rapadalen west | 24 | 312 | 176 |
+| 25 Mar | toward Kvikkjokk | 22 | 292 | 199 |
+| 26 Mar | Barkajahka | 22 | 233 | 280 |
+| 27 Mar | Kvikkjokk · shop | 24 | 446 | 756 |
+| 28 Mar | Kvikkjokk · rest | — | — | — |
+| 29 Mar | Njunjes | 15 | 151 | 35 |
+| 30 Mar | Sämerlappa | 20 | 200 | 83 |
+| 31 Mar | Duottarstuga | 24 | 493 | 115 |
+| 1 Apr | Saltoluokta side | 20 | 194 | 305 |
+| 2 Apr | Kisurgis | 20 | 108 | 308 |
+| 3 Apr | Ritsem approach | 26 | 78 | 296 |
+| 4 Apr | Ritsem · shop | — | — | — |
+| 5 Apr | Sitojaure | 22 | 338 | 157 |
+| 6 Apr | Hukejaure | 19 | 412 | 159 |
+| 7 Apr | Sälka | 20 | 289 | 356 |
+| 8 Apr | Tjäktja | 13 | 365 | 49 |
+| 9 Apr | Alesjaure | 12 | 51 | 332 |
+| 10 Apr | Abiskojaure | 22 | 117 | 432 |
+| 11 Apr | Abisko turiststation · shop | 13 | 24 | 144 |
+| 12 Apr | Lappjordhytta | 20 | 27 | 92 |
+| 13 Apr | Altevasshytta | 25 | 767 | 515 |
+| 14 Apr | Gaskashytta | 11 | 89 | 176 |
+| 15 Apr | Vuomahytta | 19 | 544 | 289 |
+| 16 Apr | Dividalshytta | 22 | 176 | 592 |
+| 17 Apr | Daertahytta | 29 | 643 | 303 |
+| 18 Apr | Pältastugan | 29 | 617 | 576 |
+| 19 Apr | Treriksröset | 13 | 431 | 426 |
 
 The [Ritsem to Abisko](/ritsem-abisko/) stretch is hut-to-hut. Friends joining to Storlien: [Joining to Storlien](/posts/2026-10-11-companion-storlien/). Friends joining on Lapplandsleden: [Joining on Lapplandsleden](/posts/2026-09-25-companion-lapplandsleden/).

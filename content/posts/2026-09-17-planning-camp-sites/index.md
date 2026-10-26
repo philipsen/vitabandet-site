@@ -15,12 +15,12 @@ After that is was time to make a rough planning for days and camps. This is tric
 
 The rest days will move if the weather does.
 
-The working schedule is the [itinerary](/itinerary/): **5 February – 18 April 2027**, about **1,296 km**, **73 days**.
+The working schedule is the [itinerary](/itinerary/): **5 February – 19 April 2027**, about **1,296 km**, **74 days**.
 
 Most nights are tent. In February the Jämtland STF huts (Helags, Sylarna, Blåhammaren) are still closed, so the first stretch is camping even when you pass the stations.
 
-Days with no ski are Storlien, Gäddede, Hemavan, Kvikkjokk, and Ritsem. Shops are Storlien, Valsjöbua, Gäddede, Klimpfjäll, Hemavan, Kvikkjokk, Ritsem, and Abisko.
+Days with no ski are Storlien, Gäddede, Klimpfjäll, Hemavan, Kvikkjokk, and Ritsem. Shops are Storlien, Valsjöbua, Gäddede, Klimpfjäll, Hemavan, Kvikkjokk, Ritsem, and Abisko.
 
-From Ritsem to Abisko the plan is huts, **4–10 April**. That stretch is on the [Ritsem to Abisko](/ritsem-abisko/) page. Some friends may join for that stretch, which would make camping difficult.
+From Ritsem to Abisko the plan is huts, **5–11 April**. That stretch is on the [Ritsem to Abisko](/ritsem-abisko/) page. Some friends may join for that stretch, which would make camping difficult.
 
 What I look for in a camp, when I get to choose: lower elevation, between trees, out of the wind, not on the lake ice if I can help it. 

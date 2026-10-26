@@ -16,22 +16,22 @@
   </wpt>
   <wpt lat="65.052910" lon="14.769990">
     <name>Klimpfjäll</name>
-    <desc>5 Mar · shop</desc>
+    <desc>5–6 Mar · shop + rest</desc>
     <sym>Flag, Blue</sym>
   </wpt>
   <wpt lat="65.185522" lon="14.566881">
     <name>Tjåkkelestugan</name>
-    <desc>6 Mar · hut</desc>
+    <desc>7 Mar · hut</desc>
     <sym>Lodging</sym>
   </wpt>
   <wpt lat="65.304438" lon="14.605300">
     <name>Åtnikstugan</name>
-    <desc>7 Mar · hut</desc>
+    <desc>8 Mar · hut</desc>
     <sym>Lodging</sym>
   </wpt>
   <wpt lat="65.516097" lon="14.549428">
     <name>Arevattnet</name>
-    <desc>9 Mar · hut</desc>
+    <desc>10 Mar · hut</desc>
     <sym>Lodging</sym>
   </wpt>
   <wpt lat="65.520000" lon="14.530000">
@@ -41,12 +41,12 @@
   </wpt>
   <wpt lat="65.683358" lon="14.589427">
     <name>Atostugan</name>
-    <desc>10 Mar · tent · rastplats</desc>
+    <desc>11 Mar · tent · rastplats</desc>
     <sym>Flag, Blue</sym>
   </wpt>
   <wpt lat="65.829230" lon="15.098280">
     <name>Hemavan</name>
-    <desc>12 Mar · shop · rest 13 Mar</desc>
+    <desc>13 Mar · shop · rest 14 Mar</desc>
     <sym>Flag, Blue</sym>
   </wpt>
   <trk>
