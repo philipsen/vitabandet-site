@@ -53,13 +53,13 @@ All-road via Denmark, the Hirtshals–Larvik ferry, and the train to Mora are ot
 | 9 | Sat 13 Feb | **Storlien** | 21 | 519 | 804 | town · you stop |
 | 10 | Sun 14 Feb | Storlien rest | — | — | — | I stay · [you leave](#from-the-netherlands) |
 | 11 | Mon 15 Feb | Norder-Rensjön | 22 | 376 | 287 | tent |
-| 12 | Tue 16 Feb | Anjan | 18 | 285 | 373 | tent · Skalstugan side |
+| 12 | Tue 16 Feb | Skalstugan | 18 | 285 | 373 | tent |
 | 13 | Wed 17 Feb | Hotagen | 19 | 192 | 249 | tent |
 | 14 | Thu 18 Feb | toward Kolåsen | 19 | 316 | 307 | tent |
 
 Day 5 is the climb past Svalåtjärn. Days 7 and 8 are the alpine stretch, west of the closed stations. Day 9 is the long drop into Storlien (↓804 m), past Blåhammaren with no camp there. **Hävlingestugorna** is a Länsstyrelsen cabin (book it). **Broktjärnskojan** is an unlocked rest hut. **Enkälen** is emergency rest only, so the night is in the tent beside it. Rogen’s STF hut opens 19 February, after we have passed.
 
-Day 12’s camp is on the line near **Skalstugan**, not at the Anjan bus stop. **Kolåsen** itself is the day after this table.
+Day 12’s camp is at **Skalstugan**. The Anjan bus stop is about 24 km further east. **Kolåsen** itself is the day after this table.
 
 ## Out from Storlien
 

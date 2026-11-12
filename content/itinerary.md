@@ -40,7 +40,7 @@ Storlien · Valsjöbua · Gäddede · Klimpfjäll · Hemavan · Ammarnäs · Ado
 
 ## Days
 
-Dates will slip. Shop is marked on the day you use it. Elevation is a rough guide. Helags, Sylarna, and Blåhammaren stay closed until 5 March, so those nights are tent. The night named Anjan is on the Skalstugan side of the line, not at the bus stop.
+Dates will slip. Shop is marked on the day you use it. Elevation is a rough guide. Helags, Sylarna, and Blåhammaren stay closed until 5 March, so those nights are tent. The Anjan bus stop is about 24 km east of the Skalstugan night.
 
 | Date | Place | km | ↑ | ↓ |
 |------|-------|---:|--:|--:|
@@ -55,13 +55,13 @@ Dates will slip. Shop is marked on the day you use it. Elevation is a rough guid
 | 13 Feb | Storlien · shop | 21 | 519 | 804 |
 | 14 Feb | Storlien · rest | — | — | — |
 | 15 Feb | Norder-Rensjön | 22 | 376 | 287 |
-| 16 Feb | Anjan | 18 | 285 | 373 |
+| 16 Feb | Skalstugan | 18 | 285 | 373 |
 | 17 Feb | Hotagen | 19 | 192 | 249 |
 | 18 Feb | toward Kolåsen | 19 | 316 | 307 |
 | 19 Feb | Kolåsen | 18 | 183 | 319 |
 | 20 Feb | Olden approach | 17 | 108 | 95 |
 | 21 Feb | Olden | 13 | 80 | 147 |
-| 22 Feb | Ansättfjällen approach | 16 | 398 | 96 |
+| 22 Feb | Jänsmässholmen | 16 | 398 | 96 |
 | 23 Feb | Ansättfjällen | 19 | 69 | 86 |
 | 24 Feb | Regnfallet | 17 | 247 | 391 |
 | 25 Feb | Valsjöbua · shop | 20 | 549 | 214 |
