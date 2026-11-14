@@ -12,7 +12,7 @@ Ski days are mostly **11–29 km**. Elevation along the line is a rough DEM guid
 
 ## Rest vs one night
 
-Days with no ski: **Storlien** (14 Feb), **Gäddede** (1 Mar), **Klimpfjäll** (6 Mar), **Hemavan** (14 Mar), **Kvikkjokk** (28 Mar), **Ritsem** (4 Apr). Abisko is one night.
+Days with no ski: **Storlien** (14 Feb), **Gäddede** (1 Mar), **Klimpfjäll** (6 Mar), **Hemavan** (14 Mar), **Kvikkjokk** (28 Mar). After Ritsem the spare day is taken where it is needed, at the latest in **Abisko** (11 Apr).
 
 ## Companions
 

@@ -21,6 +21,6 @@ Most nights are tent. In February the Jämtland STF huts (Helags, Sylarna, Blåh
 
 Days with no ski are Storlien, Gäddede, Klimpfjäll, Hemavan, Kvikkjokk, and Ritsem. Shops are Storlien, Valsjöbua, Gäddede, Klimpfjäll, Hemavan, Kvikkjokk, Ritsem, and Abisko.
 
-From Ritsem to Abisko the plan is huts, **5–11 April**. That stretch is on the [Ritsem to Abisko](/ritsem-abisko/) page. Some friends may join for that stretch, which would make camping difficult.
+From Ritsem to Abisko the plan is huts. We leave Ritsem on **4 April**. One rest day is taken where it is needed, at the latest in Abisko. That stretch is on the [Ritsem to Abisko](/ritsem-abisko/) page. Some friends may join for that stretch, which would make camping difficult.
 
 What I look for in a camp, when I get to choose: lower elevation, between trees, out of the wind, not on the lake ice if I can help it. 

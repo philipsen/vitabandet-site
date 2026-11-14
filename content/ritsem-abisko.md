@@ -1,49 +1,49 @@
 ---
 title: "Ritsem to Abisko"
 date: 2026-09-16
-description: "The hut stretch on Kungsleden: Ritsem to Abisko. Be there 3 April. Ski 5–11 April 2027."
+description: "The hut stretch on Kungsleden: Ritsem to Abisko. Be there 3 April. We leave 4 April 2027."
 ---
 
-This is the hut stretch: **Ritsem → Abisko**, about **121 km**. Be at Ritsem on **Saturday 3 April**. You are two. **Sunday 4 April** is spare if weather delays the approach. The ski north is **5–11 April**. Abisko is one night.
+This is the hut stretch: **Ritsem → Abisko**, about **121 km**. Be at Ritsem on **Saturday 3 April**. You are two. We leave on **Sunday 4 April**. One rest day is taken where it is needed. The latest place for it is **Abisko**.
 
 {{< gpx-map file="/gpx/ritsem-abisko.gpx" default-layer="winter" >}}
 
-Most Vita Bandet tracks follow Kungsleden all the way from Hemavan. I come in from Padjelanta instead, rest at Ritsem, then ski north of the lake and east onto Kungsleden, staying west of Nikkaluokta.
+Most Vita Bandet tracks follow Kungsleden all the way from Hemavan. I come in from Padjelanta, meet you at Ritsem, and we ski north of the lake and east onto Kungsleden, staying west of Nikkaluokta.
 
 That keeps me off the busy Kebnekaise corridor. Nights sit at staffed STF huts: Sitojaure, Hukejaure (Nordkalottleden, west of Nikkaluokta), then Sälka, Tjäktja, Alesjaure, Abiskojaure.
 
 ## Days
 
-From Sitojaure to Abisko the nights are in staffed STF huts. The approach to Ritsem is tent. Beds have **mattresses and duvets**; bring a sheet (or a liner) to cover them. Each hut has a **kitchen for guest use**. Hut shops sell some food — snacks, staples, freeze-dried when they have it — not a cooked meal. Ritsem has a café and a proper shop; Abisko has a restaurant and a grocery in the village.
+From Sitojaure to Abisko the nights are in staffed STF huts. The night of **3 April** is at Ritsem. Beds have **mattresses and duvets**; bring a sheet (or a liner) to cover them. Each hut has a **kitchen for guest use**. Hut shops sell some food — snacks, staples, freeze-dried when they have it — not a cooked meal. Ritsem has a café and a proper shop; Abisko has a restaurant and a grocery in the village.
 
 | Date | Place | km | ↑ | ↓ | Sleep |
 |------|-------|---:|--:|--:|-------|
-| 3 Apr | Ritsem approach | 26 | 78 | 296 | tent |
-| 4 Apr | Ritsem · spare | — | — | — | STF · shop |
-| 5 Apr | Sitojaure | 22 | 338 | 157 | STF |
-| 6 Apr | Hukejaure | 19 | 412 | 159 | STF |
-| 7 Apr | Sälka | 20 | 289 | 356 | STF |
-| 8 Apr | Tjäktja | 13 | 365 | 49 | STF |
-| 9 Apr | Alesjaure | 12 | 51 | 332 | STF |
-| 10 Apr | Abiskojaure | 22 | 117 | 432 | STF |
-| 11 Apr | Abisko turiststation | 13 | 24 | 144 | STF · shop |
+| 3 Apr | Ritsem | 26 | 78 | 296 | STF · shop |
+| 4 Apr | Sitojaure | 22 | 338 | 157 | STF |
+| 5 Apr | Hukejaure | 19 | 412 | 159 | STF |
+| 6 Apr | Sälka | 20 | 289 | 356 | STF |
+| 7 Apr | Tjäktja | 13 | 365 | 49 | STF |
+| 8 Apr | Alesjaure | 12 | 51 | 332 | STF |
+| 9 Apr | Abiskojaure | 22 | 117 | 432 | STF |
+| 10 Apr | Abisko turiststation | 13 | 24 | 144 | STF · shop |
+| 11 Apr | Abisko · rest | — | — | — | STF |
 
 From Sälka north it is classic Kungsleden: Tjäktja pass, then down through the lakes to Abisko. Tjäktja is short but steep with a pulk.
 
-I am still on the approach on **3 April** (tent). You are already at the station. If that day runs late, **4 April** is the spare, and the hut nights below stay where they are. When the approach is on time, **4 April** is the shop and the rest, and we ski out on **5 April**.
+The table is the line when the rest day is saved for Abisko. I am on the approach on **3 April**. You are already at the station. We shop, and we leave on **4 April**. If a day has to be stopped for weather, that rest replaces the **11 April** night in Abisko, and every night after the stop moves one day later. I leave north on **12 April** either way.
 
 ## Beds
 
-Book **six nights, two beds**, and only the mountain huts. Leave **Ritsem** and **Abisko turiststation** out of this booking. Those are fjällstationer: a full refund there stops seven days before arrival. The fjällstugor refund in full until **18:00 the day before**. Cancel in Min bokning. Be at the hut by 18:00, or the guaranteed bed becomes whatever bunk is left.
+Book **six nights, two beds**, for the line above, and only the mountain huts. A rest day on the trail means cancel the later huts in Min bokning before **18:00 the day before** and move them one day later. Leave **Ritsem** and **Abisko turiststation** out of this booking. Those are fjällstationer: a full refund there stops seven days before arrival. The fjällstugor refund in full until **18:00 the day before**. Be at the hut by 18:00, or the guaranteed bed becomes whatever bunk is left.
 
 | Night | Date | Hut |
 |------:|------|-----|
-| 1 | Mon 5 Apr | Sitojaure |
-| 2 | Tue 6 Apr | Hukejaure |
-| 3 | Wed 7 Apr | Sälka |
-| 4 | Thu 8 Apr | Tjäktja |
-| 5 | Fri 9 Apr | Alesjaure |
-| 6 | Sat 10 Apr | Abiskojaure |
+| 1 | Sun 4 Apr | Sitojaure |
+| 2 | Mon 5 Apr | Hukejaure |
+| 3 | Tue 6 Apr | Sälka |
+| 4 | Wed 7 Apr | Tjäktja |
+| 5 | Thu 8 Apr | Alesjaure |
+| 6 | Fri 9 Apr | Abiskojaure |
 
 ## Bail-out
 
@@ -63,7 +63,7 @@ This is the easiest public-transport gate on the trip. The likely way in is the 
 
 Be at **STF Ritsem on Saturday 3 April**. On the current winter sheet the bus leaves **Gällivare Resecentrum at 09:00** and is at **Ritsem at 12:35**. April 2027 is not published yet. A night train that arrives around 08:00 can feed that bus. Friday night in Gällivare, then the Saturday bus, is the calm version. Falcks: **0970-248 00**. Laponia, if you are collecting rented kit, wants 15–30 minutes at the station.
 
-**Out.** Ski into **STF Abisko Turiststation** on **11 April**. The station is on the Malmbanan. Night train south toward Kiruna / Stockholm, or a day train. I leave the next morning on Nordkalottleden toward Treriksröset.
+**Out.** On this line we ski into **STF Abisko Turiststation** on **10 April**, and **11 April** is the rest. If the rest was already used at a hut, Abisko is the **11th**. The station is on the Malmbanan. Night train south toward Kiruna / Stockholm, or a day train. I leave on **12 April** on Nordkalottleden toward Treriksröset.
 
 ## Packing
 
@@ -83,7 +83,7 @@ Each of you packs this. No tent and no stove. Cook in the hut kitchen. The liner
 
 ## Renting kit
 
-**[Laponia Adventures](https://laponiaadventures.com/outdoor-equipment/)** rents Åsnes backcountry skis with NNN BC bindings, Lundhags ski boots, poles, skins, and a **Jemtlander 14** pulk, plus a tent, winter sleeping bag, mat, stove, and winter clothes. Book online at least seven days ahead. For two people, email [info@laponiaadventures.com](mailto:info@laponiaadventures.com).
+**[Laponia Adventures](https://laponiaadventures.com/outdoor-equipment/)** rents Åsnes backcountry skis with NNN BC bindings, Lundhags ski boots, poles, skins, and a **Jemtlander 14** pulk. They also rent Hilleberg tents, winter sleeping bags, mats, and a multifuel stove. Those are not needed. I already have them. Book online at least seven days ahead. For two people, email [info@laponiaadventures.com](mailto:info@laponiaadventures.com).
 
 In winter they **deliver to and collect from Gällivare train station** (extra fee). Collect the kit on arrival, then take the Ritsem bus. After Abisko, the train south is about two hours to Gällivare. Hand the kit back at the station. Shop-to-shop one-way is Jokkmokk ↔ Gällivare, not Abisko — ask them to write the station loop into the booking.
 

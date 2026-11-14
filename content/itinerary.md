@@ -25,14 +25,14 @@ The line is the planned ski, Grövelsjön to Treriksröset, about **1,296 km** o
 | 22 Mar | Adolfström | 769 |
 | 23 Mar | Jäckvik | 790 |
 | 27–28 Mar | Kvikkjokk · rest | 882 |
-| 4 Apr | Ritsem | 1007 |
-| 7 Apr | Sälka | 1068 |
-| 11 Apr | Abisko turiststation | 1128 |
+| 3–4 Apr | Ritsem · leave 4 Apr | 1007 |
+| 6 Apr | Sälka | 1068 |
+| 10–11 Apr | Abisko · rest latest 11 Apr | 1128 |
 | 19 Apr | Treriksröset | 1296 |
 
 ## Rest nights
 
-Days with no ski: **Storlien** (14 Feb), **Gäddede** (1 Mar), **Klimpfjäll** (6 Mar), **Hemavan** (14 Mar), **Kvikkjokk** (28 Mar), **Ritsem** (4 Apr). Abisko is one night.
+Days with no ski: **Storlien** (14 Feb), **Gäddede** (1 Mar), **Klimpfjäll** (6 Mar), **Hemavan** (14 Mar), **Kvikkjokk** (28 Mar). After Ritsem the spare day is taken where it is needed, at the latest in **Abisko** (11 Apr).
 
 ## Shops along the way
 
@@ -101,15 +101,15 @@ Dates will slip. Shop is marked on the day you use it. Elevation is a rough guid
 | 31 Mar | Duottarstuga | 24 | 493 | 115 |
 | 1 Apr | Saltoluokta side | 20 | 194 | 305 |
 | 2 Apr | Kisurgis | 20 | 108 | 308 |
-| 3 Apr | Ritsem approach | 26 | 78 | 296 |
-| 4 Apr | Ritsem · shop | — | — | — |
-| 5 Apr | Sitojaure | 22 | 338 | 157 |
-| 6 Apr | Hukejaure | 19 | 412 | 159 |
-| 7 Apr | Sälka | 20 | 289 | 356 |
-| 8 Apr | Tjäktja | 13 | 365 | 49 |
-| 9 Apr | Alesjaure | 12 | 51 | 332 |
-| 10 Apr | Abiskojaure | 22 | 117 | 432 |
-| 11 Apr | Abisko turiststation · shop | 13 | 24 | 144 |
+| 3 Apr | Ritsem · shop | 26 | 78 | 296 |
+| 4 Apr | Sitojaure | 22 | 338 | 157 |
+| 5 Apr | Hukejaure | 19 | 412 | 159 |
+| 6 Apr | Sälka | 20 | 289 | 356 |
+| 7 Apr | Tjäktja | 13 | 365 | 49 |
+| 8 Apr | Alesjaure | 12 | 51 | 332 |
+| 9 Apr | Abiskojaure | 22 | 117 | 432 |
+| 10 Apr | Abisko turiststation · shop | 13 | 24 | 144 |
+| 11 Apr | Abisko · rest | — | — | — |
 | 12 Apr | Lappjordhytta | 20 | 27 | 92 |
 | 13 Apr | Altevasshytta | 25 | 767 | 515 |
 | 14 Apr | Gaskashytta | 11 | 89 | 176 |
