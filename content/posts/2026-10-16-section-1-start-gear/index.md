@@ -1,6 +1,6 @@
 ---
 title: "Gear at the start of section 1"
-date: 2026-11-16T00:00:00.000Z
+date: 2026-11-13T00:00:00.000Z
 description: "What is on me and what is on the pulk leaving Grövelsjön, with weights."
 draft: false
 ---
