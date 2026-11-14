@@ -1,8 +1,8 @@
 ---
 title: "Gear at the start of section 1"
-date: 2026-10-16
+date: 2026-11-16T00:00:00.000Z
 description: "What is on me and what is on the pulk leaving Grövelsjön, with weights."
-draft: true
+draft: false
 ---
 
 This is the working list for leaving **Grövelsjön** on day 1, **5 February**, toward **Storlien**. Nine ski days, full food carry from home. A companion skis this stretch on their own pulk. The tent, the stove, the **3 L** of fuel, and the evening meals are split across the two pulks. After Storlien that shared kit is all on my sled again.
