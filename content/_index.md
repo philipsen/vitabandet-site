@@ -5,7 +5,7 @@ description: "Solo ski + pulk from Grövelsjön to Treriksröset, 5 Feb – 19 A
 
 A winter journey on [Fjällfararnas Vita Bandet](https://www.vitagronabandet.se/en/white-green-ribbon/) — the White Ribbon — south to north along Sweden’s mountain chain.
 
-![Ski with pulk in the mountains](/img/pulk.jpg)
+{{< ski-rotator >}}
 
 I've been doing winter cross-country ski trips for a lot of years. Almost every winter there's a trip in Norway or Sweden.
 
