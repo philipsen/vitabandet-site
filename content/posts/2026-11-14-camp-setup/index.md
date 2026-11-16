@@ -1,8 +1,8 @@
 ---
 title: "Camp setup"
-date: 2026-11-15T00:00:00.000Z
+date: 2026-11-18T00:00:00.000Z
 description: "The tent, where it rides on the pulk, and the bag and pads for a night on snow."
-draft: true
+draft: false
 ---
 
 Most nights are in the tent. The Jämtland huts are still closed in February, so the first stretch is camping even when the ski passes a station. From Ritsem to Abisko the nights are in huts. The sleep kit is the same either way.
@@ -15,11 +15,11 @@ The weights below are the same catalog figures as in [Gear at the start of secti
 
 ## Tent
 
-We have had a Hilleberg Nallo 3 GT tent for over 6 years. We've used it for family camping by car and bike and on a hike. On last years trip crossing the Hardangervidda, we camped in it twice. Its a great tent for 2 people, but its really too small for 3. For one its luxurious. It is a tunnel, so it is pitched with the door end toward the wind. It is not freestanding. I have used many free standing tents in the past, but genrally don't see that much of an advantage, you still have to stake out the tent.
+We have had a Hilleberg Nallo 3 GT for over six years. We've used it for family camping by car, by bike, and on a hike. On last year's trip across the Hardangervidda, we camped in it twice. It's a great tent for two people, but it's really too small for three. For one person it's luxurious. It is a tunnel, so it is pitched with the door end toward the wind. It is not freestanding. I have used many freestanding tents in the past, but I generally don't see much of an advantage. You still have to stake the tent out.
 
- For this journey I decided to upgrade to a **Hilleberg Nammatj 3 GT.** This is a Black Label tent, using Kerlon 1800 cloth, and weighs about **4.1 kg** packed. The **Nallo 3GT** is the same shape in a lighter fabric, about **3.1 kg**. The difference in the stronger cloth and poles. That kilo make it a February tent. The Nammatj also has the ventilation opening at the foot end higher then the Nallo. When covered in snow it wil ventilate better.
+For this journey I decided to upgrade to a **Hilleberg Nammatj 3 GT.** This is a Black Label tent, using Kerlon 1800 cloth, and it weighs about **4.1 kg** packed. The **Nallo 3 GT** is the same shape in a lighter fabric, about **3.1 kg**. The difference is the stronger cloth and the poles. That kilo makes it a February tent. The Nammatj also has the ventilation opening at the foot end higher than the Nallo. When it is covered in snow, it will ventilate better.
 
-The 3-person inner is the reason for this tent rather than a 2. A 2-person inner is tight for that. The GT vestibule holds the stove, the melt water, and the kit that stays wet.
+The 3-person inner is the reason for this tent rather than a 2. A 2-person inner is tight for two winter bags. The GT vestibule holds the stove, the melt water, and the kit that stays wet.
 
 ### On the pulk
 
@@ -49,7 +49,7 @@ At camp the Sleeper comes off first and the sleep kit goes in the inner tent. We
 
 ## The evening
 
-Dig a pit in the vestibule for the stove. Cooking and melting stay in the vestibule, with the CO detector on.
+Dig a pit in the vestibule. Your legs go in the hole, so you can sit up under the low door to cook and to get the boots off. The coldest air settles in the same hole, below the sleeping floor. [Friluftsfrämjandet](https://www.friluftsframjandet.se/lat-aventyret-borja/kunskap--guider/sova-ute/talta-varmt-och-skont-i-sno--vara-basta-tips/) describes that pit as both a seat and a cold sink. Cooking and melting stay in the vestibule, with the CO detector on.
 
 Brush the snow off the jacket, the pants, and the boots before crawling in. A soft wide brush, the kind used on a car, so the snow comes off instead of being pushed into the cloth. It lives in the vestibule. That brush is still to buy.
 
