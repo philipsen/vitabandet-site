@@ -41,9 +41,9 @@ A light liner, about **150 g**, goes in the bag on hut nights.
 
 ## How it is packed
 
-The bag and the Ultra 7R each go in a dry bag, then into a **Fjellpulken Sleeper 200**. The Sleeper is about **1.4 kg** empty, **200 × 67 cm**, and it is strapped on the pulk. Its fabric is not waterproof enough to skip the dry bags.
+The bag and the Ultra 7R each go in a dry bag, then into a **Fjellpulken Sleeper 200**. The Sleeper is about **1.4 kg** empty, **200 × 67 cm**, and it is strapped on the pulk.
 
-If the tent fails, the pad and the bag stay in the Sleeper and it zips up as a bivi. The stove stays outside. That is the backup. The Nallo does not come on the trip.
+If the tent fails, the pad and the bag stay in the Sleeper and it zips up as a bivi. The stove stays outside. That is the backup. 
 
 At camp the Sleeper comes off first and the sleep kit goes in the inner tent. Wet clothes, boots, and the stove stay in the vestibule. Nothing wet goes back against the down.
 
@@ -59,4 +59,4 @@ Before sleep the bag gets fluffed. On a cold night the foam goes under the air p
 
 ## Still to try
 
-Two or three winter nights in this tent, not the Nallo. Pitch it at dusk in gloves, with the pulk kit in the vestibule and the stakes in crust. Sleep at about **−15 °C** on the K2 and the Ultra 7R, with the foam under the hips, and once with the air pad deflated so the foam is the only floor.
+We'll spend a week skiing with the family in Norway. I'm planning to take all the gear to test the setup, and camp out a few nights. This will allow me to get experience with the tent, the bag, and the Fjellpulken sleeper.
