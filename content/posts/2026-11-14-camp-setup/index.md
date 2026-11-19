@@ -1,9 +1,9 @@
 ---
-
-## title: "Camp setup"
+title: "Camp setup"
 date: 2026-11-18T00:00:00.000Z
 description: "The tent, where it rides on the pulk, and the bag and pads for a night on snow."
 draft: false
+---
 
 Most nights are in the tent. The Jämtland huts are still closed in February, so the first stretch is camping even when the ski passes a station. From Ritsem to Abisko the nights are in huts. The sleep kit is the same either way.
 
