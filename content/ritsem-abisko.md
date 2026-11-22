@@ -10,16 +10,16 @@ This is the hut stretch: **Ritsem → Abisko**, about **121 km**. Be at Ritsem o
 
 Most Vita Bandet tracks follow Kungsleden all the way from Hemavan. I come in from Padjelanta, meet you at Ritsem, and we ski north of the lake and east onto Kungsleden, staying west of Nikkaluokta.
 
-That keeps me off the busy Kebnekaise corridor. Nights sit at staffed STF huts: Sitojaure, Hukejaure (Nordkalottleden, west of Nikkaluokta), then Sälka, Tjäktja, Alesjaure, Abiskojaure.
+That keeps me off the busy Kebnekaise corridor. Nights sit at staffed STF huts: Sitasjaure, Hukejaure (Nordkalottleden, west of Nikkaluokta), then Sälka, Tjäktja, Alesjaure, Abiskojaure.
 
 ## Days
 
-From Sitojaure to Abisko the nights are in staffed STF huts. The night of **3 April** is at Ritsem. Beds have **mattresses and duvets**; bring a sheet (or a liner) to cover them. Each hut has a **kitchen for guest use**. Hut shops sell some food — snacks, staples, freeze-dried when they have it — not a cooked meal. Ritsem has a café and a proper shop; Abisko has a restaurant and a grocery in the village.
+From Sitasjaure to Abisko the nights are in staffed STF huts. The night of **3 April** is at Ritsem. Beds have **mattresses and duvets**; bring a sheet (or a liner) to cover them. Each hut has a **kitchen for guest use**. Hut shops sell some food — snacks, staples, freeze-dried when they have it — not a cooked meal. Ritsem has a café and a proper shop; Abisko has a restaurant and a grocery in the village.
 
 | Date | Place | km | ↑ | ↓ | Sleep |
 |------|-------|---:|--:|--:|-------|
 | 3 Apr | Ritsem | 26 | 78 | 296 | STF · shop |
-| 4 Apr | Sitojaure | 22 | 338 | 157 | STF |
+| 4 Apr | Sitasjaure | 22 | 338 | 157 | STF |
 | 5 Apr | Hukejaure | 19 | 412 | 159 | STF |
 | 6 Apr | Sälka | 20 | 289 | 356 | STF |
 | 7 Apr | Tjäktja | 13 | 365 | 49 | STF |
@@ -38,7 +38,7 @@ Book **six nights, two beds**, for the line above, and only the mountain huts. A
 
 | Night | Date | Hut |
 |------:|------|-----|
-| 1 | Sun 4 Apr | Sitojaure |
+| 1 | Sun 4 Apr | Sitasjaure |
 | 2 | Mon 5 Apr | Hukejaure |
 | 3 | Tue 6 Apr | Sälka |
 | 4 | Wed 7 Apr | Tjäktja |
@@ -49,7 +49,7 @@ Book **six nights, two beds**, for the line above, and only the mountain huts. A
 
 Two ways off before Abisko.
 
-**From Hukejaure, go back to Ritsem.** Reverse the first two days: Hukejaure → Sitojaure (19 km) → Ritsem (22 km). Same staffed huts. Then the Falcks bus to Gällivare, the way you came in. That is the clean early exit, before Tjäktja.
+**From Hukejaure, go back to Ritsem.** Reverse the first two days: Hukejaure → Sitasjaure (19 km) → Ritsem (22 km). Same staffed huts. Then the Falcks bus to Gällivare, the way you came in. That is the clean early exit, before Tjäktja.
 
 **Later, east to Singi and Kebnekaise.** From Sälka the valleys split. Ski to **STF Singi** (~12 km), then **STF Kebnekaise** (~14 km). Kebnekaise is open **26 Feb – 18 Apr 2027**. From there it is about 19 km down to **Nikkaluokta**, or a booked snowmobile. The road starts at Nikkaluokta: [Nikkaluoktaexpressen](https://nikkaluoktaexpressen.se/) to Kiruna while the mountain station is open, then the train. This is the busy corridor we otherwise stay west of.
 

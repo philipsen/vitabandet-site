@@ -102,7 +102,7 @@ Dates will slip. Shop is marked on the day you use it. Elevation is a rough guid
 | 1 Apr | Saltoluokta side | 20 | 194 | 305 |
 | 2 Apr | Kisurgis | 20 | 108 | 308 |
 | 3 Apr | Ritsem · shop | 26 | 78 | 296 |
-| 4 Apr | Sitojaure | 22 | 338 | 157 |
+| 4 Apr | Sitasjaure | 22 | 338 | 157 |
 | 5 Apr | Hukejaure | 19 | 412 | 159 |
 | 6 Apr | Sälka | 20 | 289 | 356 |
 | 7 Apr | Tjäktja | 13 | 365 | 49 |
