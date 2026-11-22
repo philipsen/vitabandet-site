@@ -45,11 +45,11 @@ That is about **1.5 L** of alkylate on each sled. My **1,620 g** of dinners is i
 
 ## On my sled
 
-**Jemtlander 14**, with the **Sleeper 200** strapped on. Working total **~27.4 kg**: **22.2 kg** of named kit and food, plus **~5.3 kg** of spare clothes and small items that are still estimates.
+**Jemtlander 14**, with the **Sleeper 200** strapped on. Working total **~27.4 kg**: **22.1 kg** of named kit and food, plus **~5.3 kg** of spare clothes and small items that are still estimates.
 
 Short skins stay on the sled until a climb needs them. Phone, power bank, headlamp, inReach, compass, and the day’s lunch are in the top of the bag.
 
-### Named kit and food — 22.2 kg
+### Named kit and food — 22.1 kg
 
 | Item | g |
 |------|---:|
@@ -72,12 +72,12 @@ Short skins stay on the sled until a climb needs them. Phone, power bank, headla
 | Wall charger, Anker 100 W, plus 1.5 m cable | 247 |
 | USB cables (three USB-C, micro-USB, Suunto) | 80 |
 | Paper maps, Calazo | 400 |
-| Food for the leg, including day 1 lunch and my dinners | 6,475 |
-| **Spec** | **22,185** |
+| Food for the leg, including day 1 lunch and my dinners | 6,423 |
+| **Spec** | **22,133** |
 
 The food is in three flat boxes. Day 1’s lunch is the top box.
 
-Food in those **6,475 g**:
+Food in those **6,423 g**:
 
 | Block | g |
 |-------|---:|
@@ -87,7 +87,7 @@ Food in those **6,475 g**:
 | My evening meals (3 cooked, 3 freeze-dried, oil) | 1,620 |
 | Ground coffee | 250 |
 | Tea bags, 20+ | ~50 |
-| Lemonade or blåbärstoddy powder | ~100 |
+| Dried-vegetable pouch | 48 |
 
 Coffee goes through a reusable filter. The filter is in the kitchen kit. It has no weight on the list yet. The same breakfast, lunch, and evening meals are on the other pulk.
 
