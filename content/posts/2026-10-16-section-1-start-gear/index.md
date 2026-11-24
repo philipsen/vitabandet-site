@@ -30,7 +30,7 @@ The poles are on order. The boot and ski figures are catalog weights, not a home
 
 ## Split across the two pulks
 
-Half the weight of each shared group, until the tent is weighed as fly, inner, and poles. Evening meals are one person’s set on each sled: three cooked dinners, three freeze-dried dinners, and the oil.
+Half the weight of each shared group, until the tent is weighed as fly, inner, and poles. Evening meals on each sled: two cooked meals for two people, four freeze-dried dinners, and the oil.
 
 | Item | All of it | My pulk | Other pulk |
 |------|----------:|--------:|-----------:|
@@ -39,17 +39,17 @@ Half the weight of each shared group, until the tent is weighed as fly, inner, a
 | Tent stakes | ~240 | ~120 | ~120 |
 | Stove, silencer, pot and pan | 519 | 260 | 259 |
 | Fuel, 3 L, with bottles and tin | 2,770 | 1,385 | 1,385 |
-| Evening meals | ~3,240 | 1,620 | ~1,620 |
+| Evening meals | ~4,320 | 2,160 | ~2,160 |
 
-That is about **1.5 L** of alkylate on each sled. My **1,620 g** of dinners is inside the food total below.
+That is about **1.5 L** of alkylate on each sled. My **2,160 g** of dinners is inside the food total below.
 
 ## On my sled
 
-**Jemtlander 14**, with the **Sleeper 200** strapped on. Working total **~27.4 kg**: **22.1 kg** of named kit and food, plus **~5.3 kg** of spare clothes and small items that are still estimates.
+**Jemtlander 14**, with the **Sleeper 200** strapped on. Working total **~27.9 kg**: **22.7 kg** of named kit and food, plus **~5.3 kg** of spare clothes and small items that are still estimates.
 
 Short skins stay on the sled until a climb needs them. Phone, power bank, headlamp, inReach, compass, and the day’s lunch are in the top of the bag.
 
-### Named kit and food — 22.1 kg
+### Named kit and food — 22.7 kg
 
 | Item | g |
 |------|---:|
@@ -72,24 +72,24 @@ Short skins stay on the sled until a climb needs them. Phone, power bank, headla
 | Wall charger, Anker 100 W, plus 1.5 m cable | 247 |
 | USB cables (three USB-C, micro-USB, Suunto) | 80 |
 | Paper maps, Calazo | 400 |
-| Food for the leg, including day 1 lunch and my dinners | 6,423 |
-| **Spec** | **22,133** |
+| Food for the leg, including day 1 lunch and my dinners | 6,963 |
+| **Spec** | **22,673** |
 
 The food is in three flat boxes. Day 1’s lunch is the top box.
 
-Food in those **6,423 g**:
+Food in those **6,963 g**:
 
 | Block | g |
 |-------|---:|
 | Lunch, 9 × 350 g | 3,150 |
 | Cruesli, 9 × 120 g | 1,080 |
 | Milk powder | 225 |
-| My evening meals (3 cooked, 3 freeze-dried, oil) | 1,620 |
+| My evening meals (2 cooked for two, 4 freeze-dried, oil) | 2,160 |
 | Ground coffee | 250 |
 | Tea bags, 20+ | ~50 |
 | Dried-vegetable pouch | 48 |
 
-Coffee goes through a reusable filter. The filter is in the kitchen kit. It has no weight on the list yet. The same breakfast, lunch, and evening meals are on the other pulk.
+Coffee goes through a reusable filter. The filter is in the kitchen kit. It has no weight on the list yet. The same breakfast and lunch are on the other pulk. Their evening meals are the other two cooked nights, plus their own freeze-dried dinners.
 
 ### Spare clothes and small kit — ~5.3 kg
 
@@ -111,14 +111,14 @@ These are estimates. First things onto the scale: the spare clothes, the toiletr
 | Pad pump, utensils, lighters | ~150 |
 | **Estimate** | **~5,250** |
 
-Long skins (~400 g) go on the sled once they are reglued, for the steeper sections later. That pair is outside the **27.4 kg**. So are the passport pouch, skin wax, and the glue tube.
+Long skins (~400 g) go on the sled once they are reglued, for the steeper sections later. That pair is outside the **27.9 kg**. So are the passport pouch, skin wax, and the glue tube.
 
 ## Together
 
 | | kg |
 |--|---:|
 | On me, listed kit | ~4.7 |
-| On my sled | ~27.4 |
-| Shared kit on the other sled | ~5.5 |
+| On my sled | ~27.9 |
+| Shared kit on the other sled | ~6.0 |
 
-Worn clothes and the bindings sit on top of the **~4.7 kg**. My sled figure moves once the **~5.3 kg** estimates are real weights, and once the tent is weighed in pieces instead of split in half. The other sled’s **~5.5 kg** is only its half of the tent, stove, fuel, stakes, and its evening meals. Their pulk, sleep kit, and the rest of their food sit on top of that.
+Worn clothes and the bindings sit on top of the **~4.7 kg**. My sled figure moves once the **~5.3 kg** estimates are real weights, and once the tent is weighed in pieces instead of split in half. The other sled’s **~6.0 kg** is only its half of the tent, stove, fuel, stakes, and its evening meals. Their pulk, sleep kit, and the rest of their food sit on top of that.
